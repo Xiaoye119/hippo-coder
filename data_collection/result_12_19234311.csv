@@ -1,0 +1,122 @@
+[
+    {
+        "info": "Must-have verilog systemverilog modules",
+        "src": "https://github.comon Nov 7/archive/refs/heads/master.zip",
+        "stars": "1.7k",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "An open source GPU based off of the AMD Southern Islands ISA.",
+        "src": "https://github.comon Sep 25, 2017/archive/refs/heads/master.zip",
+        "stars": "1.1k",
+        "updated": "on Sep 25, 2017"
+    },
+    {
+        "info": "The USRP™ Hardware Driver Repository",
+        "src": "https://github.com8 days ago/archive/refs/heads/master.zip",
+        "stars": "1k",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "🌱 Open source ecosystem for open FPGA boards",
+        "src": "https://github.com8 hours ago/archive/refs/heads/master.zip",
+        "stars": "805",
+        "updated": "8 hours ago"
+    },
+    {
+        "info": "The RIFFA development repository",
+        "src": "https://github.comon Jun 11/archive/refs/heads/master.zip",
+        "stars": "785",
+        "updated": "on Jun 11"
+    },
+    {
+        "info": "open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware",
+        "src": "https://github.com17 days ago/archive/refs/heads/master.zip",
+        "stars": "708",
+        "updated": "17 days ago"
+    },
+    {
+        "info": "Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC …",
+        "src": "https://github.comon Nov 13/archive/refs/heads/master.zip",
+        "stars": "600",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。",
+        "src": "https://github.comon Sep 15, 2023/archive/refs/heads/master.zip",
+        "stars": "578",
+        "updated": "on Sep 15, 2023"
+    },
+    {
+        "info": "Verilog I2C interface for FPGA implementation",
+        "src": "https://github.comon Jul 15/archive/refs/heads/master.zip",
+        "stars": "560",
+        "updated": "on Jul 15"
+    },
+    {
+        "info": "使用Verilog实现的CNN模块，可以方便的在FPGA项目中使用",
+        "src": "https://github.comon Jun 18, 2018/archive/refs/heads/master.zip",
+        "stars": "506",
+        "updated": "on Jun 18, 2018"
+    },
+    {
+        "info": "在vscode上的数字设计开发插件",
+        "src": "https://github.comon Jan 27, 2023/archive/refs/heads/master.zip",
+        "stars": "334",
+        "updated": "on Jan 27, 2023"
+    },
+    {
+        "info": "A Verilog HDL model of the MOS 6502 CPU",
+        "src": "https://github.comon Apr 8, 2023/archive/refs/heads/master.zip",
+        "stars": "333",
+        "updated": "on Apr 8, 2023"
+    },
+    {
+        "info": "基于FPGA的数字识别-实时视频处理的定点卷积神经网络实现",
+        "src": "https://github.comon May 2, 2023/archive/refs/heads/master.zip",
+        "stars": "284",
+        "updated": "on May 2, 2023"
+    },
+    {
+        "info": "current focus on Colorlight i5 and i9 & i9plus module",
+        "src": "https://github.comon Oct 6/archive/refs/heads/master.zip",
+        "stars": "271",
+        "updated": "on Oct 6"
+    },
+    {
+        "info": "It's a core. Made on Twitch.",
+        "src": "https://github.comon Nov 1, 2021/archive/refs/heads/master.zip",
+        "stars": "252",
+        "updated": "on Nov 1, 2021"
+    },
+    {
+        "info": "RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.",
+        "src": "https://github.comon Jan 12, 2018/archive/refs/heads/master.zip",
+        "stars": "244",
+        "updated": "on Jan 12, 2018"
+    },
+    {
+        "info": "A Simple FPGA Core for Creating VGA/DVI/HDMI/OpenLDI Signals",
+        "src": "https://github.comon Nov 29, 2018/archive/refs/heads/master.zip",
+        "stars": "232",
+        "updated": "on Nov 29, 2018"
+    },
+    {
+        "info": "FPGA display controller with support for VGA, DVI, and HDMI.",
+        "src": "https://github.comon Mar 9, 2020/archive/refs/heads/master.zip",
+        "stars": "222",
+        "updated": "on Mar 9, 2020"
+    },
+    {
+        "info": "RePlAce global placement tool",
+        "src": "https://github.comon Aug 13, 2020/archive/refs/heads/master.zip",
+        "stars": "218",
+        "updated": "on Aug 13, 2020"
+    },
+    {
+        "info": "SD-Card controller, using either SPI, SDIO, or eMMC interfaces",
+        "src": "https://github.com22 days ago/archive/refs/heads/master.zip",
+        "stars": "218",
+        "updated": "22 days ago"
+    }
+]

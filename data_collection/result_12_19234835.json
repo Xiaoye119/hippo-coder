@@ -1,0 +1,122 @@
+[
+    {
+        "info": "Must-have verilog systemverilog modules",
+        "src": "https://github.com/pConst/basic_verilog/archive/refs/heads/master.zip",
+        "stars": "1.7k",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "An open source GPU based off of the AMD Southern Islands ISA.",
+        "src": "https://github.com/VerticalResearchGroup/miaow/archive/refs/heads/master.zip",
+        "stars": "1.1k",
+        "updated": "on Sep 25, 2017"
+    },
+    {
+        "info": "The USRP™ Hardware Driver Repository",
+        "src": "https://github.com/EttusResearch/uhd/archive/refs/heads/master.zip",
+        "stars": "1k",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "🌱 Open source ecosystem for open FPGA boards",
+        "src": "https://github.com/FPGAwars/apio/archive/refs/heads/master.zip",
+        "stars": "805",
+        "updated": "8 hours ago"
+    },
+    {
+        "info": "The RIFFA development repository",
+        "src": "https://github.com/KastnerRG/riffa/archive/refs/heads/master.zip",
+        "stars": "785",
+        "updated": "on Jun 11"
+    },
+    {
+        "info": "open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware",
+        "src": "https://github.com/open-sdr/openwifi-hw/archive/refs/heads/master.zip",
+        "stars": "708",
+        "updated": "17 days ago"
+    },
+    {
+        "info": "Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC …",
+        "src": "https://github.com/sudhamshu091/32-Verilog-Mini-Projects/archive/refs/heads/master.zip",
+        "stars": "600",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。",
+        "src": "https://github.com/WangXuan95/FPGA-FOC/archive/refs/heads/master.zip",
+        "stars": "578",
+        "updated": "on Sep 15, 2023"
+    },
+    {
+        "info": "Verilog I2C interface for FPGA implementation",
+        "src": "https://github.com/alexforencich/verilog-i2c/archive/refs/heads/master.zip",
+        "stars": "560",
+        "updated": "on Jul 15"
+    },
+    {
+        "info": "使用Verilog实现的CNN模块，可以方便的在FPGA项目中使用",
+        "src": "https://github.com/QShen3/CNN-FPGA/archive/refs/heads/master.zip",
+        "stars": "506",
+        "updated": "on Jun 18, 2018"
+    },
+    {
+        "info": "Bus bridges and other odds and ends",
+        "src": "https://github.com/ZipCPU/wb2axip/archive/refs/heads/master.zip",
+        "stars": "498",
+        "updated": "on Jan 12"
+    },
+    {
+        "info": "The lab schedules for EECS168 at UC Riverside",
+        "src": "https://github.com/sheldonucr/ucr-eecs168-lab/archive/refs/heads/master.zip",
+        "stars": "494",
+        "updated": "on Oct 1"
+    },
+    {
+        "info": "Volumetric Display using an Acoustically Trapped Particle",
+        "src": "https://github.com/danfoisy/vdatp/archive/refs/heads/master.zip",
+        "stars": "455",
+        "updated": "22 days ago"
+    },
+    {
+        "info": "All in one vscode plugin for HDL development",
+        "src": "https://github.com/Digital-EDA/Digital-IDE/archive/refs/heads/master.zip",
+        "stars": "418",
+        "updated": "1 hour ago"
+    },
+    {
+        "info": "Implementation of CNN on ZYNQ FPGA to classify handwritten numbers using MNIST database",
+        "src": "https://github.com/omarelhedaby/CNN-FPGA/archive/refs/heads/master.zip",
+        "stars": "415",
+        "updated": "on Feb 19, 2021"
+    },
+    {
+        "info": "CNN acceleration on virtex-7 FPGA with verilog HDL",
+        "src": "https://github.com/hunterlew/convolution_network_on_FPGA/archive/refs/heads/master.zip",
+        "stars": "407",
+        "updated": "on Feb 27, 2018"
+    },
+    {
+        "info": "Board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key 🔑",
+        "src": "https://github.com/tillitis/tillitis-key1/archive/refs/heads/master.zip",
+        "stars": "404",
+        "updated": "yesterday"
+    },
+    {
+        "info": "AMBA bus lecture material",
+        "src": "https://github.com/adki/AMBA_AXI_AHB_APB/archive/refs/heads/master.zip",
+        "stars": "387",
+        "updated": "on Jan 21, 2020"
+    },
+    {
+        "info": "🌟 IceZUM Alhambra: an Arduino-like Open FPGA electronic board",
+        "src": "https://github.com/FPGAwars/icezum/archive/refs/heads/master.zip",
+        "stars": "342",
+        "updated": "on Jan 14, 2022"
+    },
+    {
+        "info": "A Verilog HDL model of the MOS 6502 CPU",
+        "src": "https://github.com/Arlet/verilog-6502/archive/refs/heads/master.zip",
+        "stars": "333",
+        "updated": "on Apr 8, 2023"
+    }
+]

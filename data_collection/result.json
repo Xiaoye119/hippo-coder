@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Must-have verilog systemverilog modules",
+        "url": "https://github.com/pConst/basic_verilog/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "An open source GPU based off of the AMD Southern Islands ISA.",
+        "url": "https://github.com/VerticalResearchGroup/miaow/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "The USRP™ Hardware Driver Repository",
+        "url": "https://github.com/EttusResearch/uhd/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "🌱 Open source ecosystem for open FPGA boards",
+        "url": "https://github.com/FPGAwars/apio/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "The RIFFA development repository",
+        "url": "https://github.com/KastnerRG/riffa/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware",
+        "url": "https://github.com/open-sdr/openwifi-hw/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC …",
+        "url": "https://github.com/sudhamshu091/32-Verilog-Mini-Projects/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。",
+        "url": "https://github.com/WangXuan95/FPGA-FOC/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "Verilog I2C interface for FPGA implementation",
+        "url": "https://github.com/alexforencich/verilog-i2c/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "使用Verilog实现的CNN模块，可以方便的在FPGA项目中使用",
+        "url": "https://github.com/QShen3/CNN-FPGA/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "The lab schedules for EECS168 at UC Riverside",
+        "url": "https://github.com/sheldonucr/ucr-eecs168-lab/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "Implementation of CNN on ZYNQ FPGA to classify handwritten numbers using MNIST database",
+        "url": "https://github.com/omarelhedaby/CNN-FPGA/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "CNN acceleration on virtex-7 FPGA with verilog HDL",
+        "url": "https://github.com/hunterlew/convolution_network_on_FPGA/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "Board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key 🔑",
+        "url": "https://github.com/tillitis/tillitis-key1/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "🌟 IceZUM Alhambra: an Arduino-like Open FPGA electronic board",
+        "url": "https://github.com/FPGAwars/icezum/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "在vscode上的数字设计开发插件",
+        "url": "https://github.com/Nitcloud/Digital-IDE/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "A Verilog HDL model of the MOS 6502 CPU",
+        "url": "https://github.com/Arlet/verilog-6502/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "RIDECORE (RIsc-v Dynamic Execution CORE) is an Out-of-Order RISC-V processor written in Verilog HDL.",
+        "url": "https://github.com/ridecore/ridecore/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "FuseSoC-based SoC for VeeR EH1 and EL2",
+        "url": "https://github.com/chipsalliance/VeeRwolf/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "current focus on Colorlight i5 and i9 & i9plus module",
+        "url": "https://github.com/wuxx/Colorlight-FPGA-Projects/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "RIDECORE (RIsc-v Dynamic Execution CORE) is an Out-of-Order RISC-V processor written in Verilog HDL.",
+        "url": "https://github.com/ridecore/ridecore/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "FuseSoC-based SoC for VeeR EH1 and EL2",
+        "url": "https://github.com/chipsalliance/VeeRwolf/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "基于FPGA的数字识别-实时视频处理的定点卷积神经网络实现",
+        "url": "https://github.com/suisuisi/FPGAandCNN/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "current focus on Colorlight i5 and i9 & i9plus module",
+        "url": "https://github.com/wuxx/Colorlight-FPGA-Projects/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "It's a core. Made on Twitch.",
+        "url": "https://github.com/geohot/twitchcore/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.",
+        "url": "https://github.com/Evensgn/RISC-V-CPU/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "A Simple FPGA Core for Creating VGA/DVI/HDMI/OpenLDI Signals",
+        "url": "https://github.com/cliffordwolf/SimpleVOut/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "在FPGA上面实现一个NPU计算单元。能够执行矩阵运算（ADD/ADDi/ADDs/MULT/MULTi/DOT等）、图像处理运算（CONV/POOL等）、非线性映射（RELU/TANH/SIGM等）。",
+        "url": "https://github.com/cxdzyq1110/NPU_on_FPGA/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "Minimax: a Compressed-First, Microcoded RISC-V CPU",
+        "url": "https://github.com/gsmecher/minimax/archive/refs/heads/master.zip"
+    },
+    {
+        "title": "Implementation of CNN using Verilog",
+        "url": "https://github.com/AniketBadhan/Convolutional-Neural-Network/archive/refs/heads/master.zip"
+    }
+]
