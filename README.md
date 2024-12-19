@@ -1,2 +1,2 @@
 # hippo-coder
-hippo-coder , 杨森 , 张开源 , 金睿智 , 唐子博
+hippo-coder 唐子博 , 张开源 , 金睿智 , 杨森
