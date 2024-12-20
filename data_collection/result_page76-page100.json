@@ -1,0 +1,1502 @@
+[
+    {
+        "info": "",
+        "src": "https://github.com/N8rBeans/TinyTapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Teimir/UARTP/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "Das coolste Projekt der Welt (es funktioniert nicht)",
+        "src": "https://github.com/Byter64/Hans/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/parallellogic-/TinyTapeoutLogic2024A/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dandekarsneha07/FPGA_systolic_booth_UART/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/bibhu-datta-sahoo/FirstTinyTapeOutNov2024/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sellicott/tt09_desk_alarm_clock/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "Tiny Tapeout 9 project",
+        "src": "https://github.com/FlyingFish800/tt09/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/NeuroCode333/Yohan-Tiny-Tapeout-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/kinnevo/tt09-tiny/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/marwaneltoukhy/i2c_mini_test/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/CHAKKASIVAPOOJITHA/100-Days-of-RTL-Verification/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "Desenvolvimento de um Circuito de Unidade Lógica e Aritmética (ULA) em Verilog, Icarus.",
+        "src": "https://github.com/MiguelMussalam/ULA_8-Bit/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/SanidhyaSaxena21/RV32I_Pipeline_Processor/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "Group Assignment for JCT Encryption Algorithms and Verilog Implementation course",
+        "src": "https://github.com/LeorBrennerWork/Verilog-Group-Assignment/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "Exercícios de circuitos digitais",
+        "src": "https://github.com/Pedrosimoes12/Circuitos-digitais/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "32-bit RISC-V (RV32I) w/ simulated memory ICs & decoding",
+        "src": "https://github.com/aarontartz/RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/AnikaZaman2204/snake_FPGA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "6502 SoC for the Tang Nano 20k FPGA Board",
+        "src": "https://github.com/venomix666/nano6502/archive/refs/heads/master.zip",
+        "stars": "13",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "本工程使用纯verilog编写rtl代码，在FPGA上搭建神经网络LeNet-5，实现手写数字识别的功能。",
+        "src": "https://github.com/Lexiang-Shen/LeNet-5-on-FPGA/archive/refs/heads/master.zip",
+        "stars": "4",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/regymm/open-la500/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dragonlord1129/RISC-V-Simplified-Implementation/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dragonlord1129/Digital_logic-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 18"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/JaveriaMajeed/RISC-V-Single-cycle-Processor/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "Solutions to the Lab Assignments for the Digital Design and Computer Architecture (ETH Zürich, Spring 2020) course by Prof. Onur Mutlu",
+        "src": "https://github.com/NikhilRout/OM-ETH-DDCA-Lab-Solutions/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/maissaelafani/ascon_encryption/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/47v0/a/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/shehin18/FIFO/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "This project implements the classic Pong game on an FPGA platform using Verilog. The game is fully hardware-accelerated and displayed via…",
+        "src": "https://github.com/shayaanc4/Pong/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/WangWindow/MIPS_SHCD/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "EDA --projects--",
+        "src": "https://github.com/anasbayoumy/EDA_projects/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "Simple As Possible 4-bit Computer, Learning",
+        "src": "https://github.com/shamsmm/4-bit-sap-computer/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "PESU Sem 3: Mini project for Digital Design and Computer Organization",
+        "src": "https://github.com/Pranavh-2004/64KB_RAM_iverilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "exercise caravel project by abj",
+        "src": "https://github.com/arumdapta98/8-bit-cpu/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/yashwanth438/PWM_generator_verilog/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/govardhnn/Low_Power_Multidimensional_Sorters/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "A Public Copy of the code for the project of Fall 2023 ECE 552. Manually forked from",
+        "src": "https://github.com/benzene-gugu/FA23-ECE552-Project-Public/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "Verilog & MATLAB implementation of the hyperbolic tangent function using CORDIC",
+        "src": "https://github.com/roozmehrjh79/cordic_tanh/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "IMPLEMENTATION OF ALU USING REVERSIBLE LOGIC GATES",
+        "src": "https://github.com/vamshikiranreddy/IMPLEMENTATION-OF-ALU-USING-REVERSIBLE-LOGIC-GATES/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/joackoodeg/monocicloriskv/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/angelvic-500/tt_um_angelvictoriano_project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dhanushmeda/capstone/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/adonairc/tt-analog-inverter/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Thelittleelon/Digital_Design_ET5080E/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Sagarpatel2515/FPGA-implementation-of-binary-to-grey-code-using-vivado-software-/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/jmws00/DL_FPGA_ALICE/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "DMA firmware",
+        "src": "https://github.com/aero-tweaks/Realtek-2.5gbe-full-emu/archive/refs/heads/master.zip",
+        "stars": "4",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "Verilog （大二課堂作業 - 有限狀態機 Mealy Moore）",
+        "src": "https://github.com/caizhen0110/FiniteStateMachine-Mealy_and_Moore-/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "design",
+        "src": "https://github.com/Hamza-Ali10/RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "Developing different projects in order to understand how the Icarus Verilog tools work with GTKWave and Yosys.",
+        "src": "https://github.com/brown9804/VerilogCircuitDesignsHub/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ChethanReddyGN/tiny_tapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 16"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ARR-003/TT/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 16"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/santoshmokashi86/test_tt/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 16"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Vikram160409/dv/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 16"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/echtan/alu_tt/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 16"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Jorge45014/D03_Equipo_Intel2_Proyecto_p02/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 16"
+    },
+    {
+        "info": "디지털 논리회로2 실습 및 프로젝트",
+        "src": "https://github.com/kindYeom/Digital_logic_curict/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 16"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/K-Praveen22/VERILOG-CODE-/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 16"
+    },
+    {
+        "info": "This project simulates the communication between an APIX transmitter and receiver using Verilog. It includes waveform analysis using GTKW…",
+        "src": "https://github.com/Marrockx/apix_system/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/GovardhanaRekam/Image_Process_Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/tagsou/Flare-on-11-solution-writeups/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/samcorrell/FPGA-lab9/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "simple verilog codes",
+        "src": "https://github.com/Ashish-gitz/verilog_codes/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "Simple monophonic synthesizer",
+        "src": "https://github.com/maurizio-martina/synth_simple/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/phamhungminh6251020065/check_3_state/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/phamhungminh6251020065/adder_4bit/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "MAC operation for FFT using DSP_Maco IP on numsto styx zynq board.",
+        "src": "https://github.com/Vishvas2129/DSP_Macro/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/angelvic-500/tt_um_angelvictoriano_project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dhanushmeda/capstone/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/adonairc/tt-analog-inverter/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Thelittleelon/Digital_Design_ET5080E/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Sagarpatel2515/FPGA-implementation-of-binary-to-grey-code-using-vivado-software-/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 15"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/jmws00/DL_FPGA_ALICE/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "DMA firmware",
+        "src": "https://github.com/aero-tweaks/Realtek-2.5gbe-full-emu/archive/refs/heads/master.zip",
+        "stars": "4",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "Verilog （大二課堂作業 - 有限狀態機 Mealy Moore）",
+        "src": "https://github.com/caizhen0110/FiniteStateMachine-Mealy_and_Moore-/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "design",
+        "src": "https://github.com/Hamza-Ali10/RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "Developing different projects in order to understand how the Icarus Verilog tools work with GTKWave and Yosys.",
+        "src": "https://github.com/brown9804/VerilogCircuitDesignsHub/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "Adaptive PCIE logic layer and switching logic",
+        "src": "https://github.com/brown9804/Adaptive_PCIe_switching/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "Config files for my GitHub profile.",
+        "src": "https://github.com/Callmeshivu621/Callmeshivu621/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "SoC integrated using Amaratnh HDL",
+        "src": "https://github.com/planvtech/SoC_Amaranth/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/chaeho123/Single-Cycle-MIPS-CPU-Design/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "pure 8bit brainfuck CPU",
+        "src": "https://github.com/chizuchizu/bf-cpu/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "Master repo for re-usable verilog modules",
+        "src": "https://github.com/DouglasWWolf/verilog_module_master_repo/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "A modified version of Pac-Man made as a final project for CSE371 @ UW. Collaborated with a partner in the class.",
+        "src": "https://github.com/alca20/cse371_proj/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/moghamry25/MIPS_One_Cycle/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/mhddyusuf/tt09-coba-desain/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/asheldon44/tt09-delta-sigma-decimation-filter/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/luoxianwu/fpga/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/vyomg25/Design-and-Analysis-of-LFSR-based-Content-Addressable-Memory/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dreamsofhabit/tiny_tapeout_first_template/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/abcdedafjkdmme/riscv_cpu_yet_again/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ArunM2402/DCMOS/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "2023 Basic Electrical and Electronic Lab lecture",
+        "src": "https://github.com/dlwnstlr1010/Electronic_watch/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/tjdjakl/reram_crossbar_project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Abdirazak140/Dino-Jump/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Mnd2k5/DE0_Atari-Breakout-Game/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "A digital potentiometer circuit for Tiny Tapeout.",
+        "src": "https://github.com/couchand/tt10-digital-potentiometer/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "Lab assignments for my EC605 class in BU",
+        "src": "https://github.com/JoshCHYeh0825/EC605_Labs_F24/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "All the assignments for COA with slides",
+        "src": "https://github.com/sesiii/Computer-Organization-and-Architecture/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "50% duty cycle by 3",
+        "src": "https://github.com/minsheng0503/Frequency_Divider/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "A clock-accurate FPGA clone of the NMOs processor 6502, created on the basis of reverse engineering.",
+        "src": "https://github.com/andkorzh/OLD-Verilog-MOS6502/archive/refs/heads/master.zip",
+        "stars": "5",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/khalidrh/advanced-counter/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/chae-sy/repo_cnt/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "This is my first project.",
+        "src": "https://github.com/RajKohale/FPGAspeaks/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "Uses 3b/4b and 5b/6b encoding tables.",
+        "src": "https://github.com/AkshaySan07/8b-10b_Line_coding/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ShanzyATbupt/BUPT-Digital-Circuit-Experiment-Course-COUNTERse_/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC …",
+        "src": "https://github.com/sudhamshu091/32-Verilog-Mini-Projects/archive/refs/heads/master.zip",
+        "stars": "600",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/harsimranpaswan/vendingMachine/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/wekNew/frequency-analysis-module/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "A simulator for SimpleRISC pipelined processor",
+        "src": "https://github.com/tanaykapadia/2-3-and-4-Stage-Pipeline-Architecture/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/senolgulgonul/tt09-senolgulgonul/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "Simple Processing Unit in Verilog",
+        "src": "https://github.com/hidal00p/spuv/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "Example using pio-ram-emulator to draw a Julia fractal",
+        "src": "https://github.com/toivoh/tt09-pio-ram-emulator-example/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/AntonAnisimovMIPT/FPGA_Hasher/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/YaoTengqi/Wiseeyes/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "TSConf for MiSTer",
+        "src": "https://github.com/MiSTer-devel/TSConf_MiSTer/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Aryansingh080501/RTOS-Implementation-to-display-image-text-on-VGA-monitor-from-SD-Card/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Devchaudhari1/S2-T17/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/salonimeena402/Verilog_Projects/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Beer-and-Skittles/mini_tapeout_test/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/abdullahsahruri/tlgopt4/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 11"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/shazam404/end/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 11"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Cricric22/Multi-Cycle-RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 11"
+    },
+    {
+        "info": "quadrature oscillator playground",
+        "src": "https://github.com/tatzelbrumm/tt09-qosc/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/mariobrenesarroyo/Digitales-2/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "Simulation of verilog projects with Icarus Verilog and GTKWave",
+        "src": "https://github.com/Anish9901/verilog-simulations/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/lfrancis01/Lynnstinytapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "If you need help flashing it or creating it join my discord server",
+        "src": "https://github.com/dzul221/pcileech-family/archive/refs/heads/master.zip",
+        "stars": "13",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/naqinaqvi110/8_PSK/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/diferential/tt09-opamps-mix/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "IIC communication serial port FPGA implementation and simulation, and successfully write read eeprom",
+        "src": "https://github.com/nopehxidian/I2C_IIC_VIVADO/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "fpga",
+        "src": "https://github.com/huoyangyang233/fpgaproject/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "Hardware defined dsp module.",
+        "src": "https://github.com/f3rmata/patatodsp/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "2024_CN_FPGA_Contest",
+        "src": "https://github.com/ASTurtle/Gowin_FPGA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "Gate array reverse engineering",
+        "src": "https://github.com/ika-musume/ASIC_RE/archive/refs/heads/master.zip",
+        "stars": "20",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/fh226/uart_loopback_top/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/zzlee/cocotb-dev/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/manasa-alamuri/verilog_code_dumps/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "Implementation of Traffic signals using Verilog",
+        "src": "https://github.com/Pabsthegreat/TrafficLights-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Landon1263/RedStone2024/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 12"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sadra-ghavami/4x4-Mesh-Grid-Network-on-Chip--NoC--in-Verilog/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "on Oct 27"
+    },
+    {
+        "info": "Verilog implementation for Low Density Parity Check Encoder and Decoder",
+        "src": "https://github.com/benySuho/LDPC-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 27"
+    },
+    {
+        "info": "Anton's test submission to TTIHP0p2",
+        "src": "https://github.com/algofoogle/ttihp0p2-algofoogle/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 27"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/myertas/First_Asic/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Aninditaa/DemoAND/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Mennatallah-Karam/Low-Power-Configurable-Multi-Clock-Digital-System/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "Design & Implementation of Low Power Configurable Multi Clock Domain System using Verilog HDL",
+        "src": "https://github.com/mo2menwael/Low-Power-Configurable-Multi-Clock-Digital-System/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "Full design of asynchronous FIFO parameterized verilog code",
+        "src": "https://github.com/mohanad-abouelezz/Async-FIFO/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/mohamedsharith/verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "5 stage pipelined CPU design (instruction fetch, instruction decode, instruction execute, memory, writeback)",
+        "src": "https://github.com/dylantburk/CPU-Design/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sakundu/TinyTapeout-4-bit-counter/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "Verilog implementation of CORDIC function",
+        "src": "https://github.com/trogo3/CORDIC-TinyTapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "Example project for Columbus SSCS/CAS Tiny Tapeout Workshop",
+        "src": "https://github.com/sellicott/sellicott_tt_7seg_clock_2024/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Rahul-sai-surya/RTL_Coding/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/1qaaa222/VHDL_Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Padidapu-Bhargav/FPGA-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "Test of generated ROM macros",
+        "src": "https://github.com/smunaut/tt09-rom-test/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Dv-26/share_cache_switching_module/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "PoC of the NeuroPlug design",
+        "src": "https://github.com/nivi1501/NeuroPlug/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 5"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ieee-ceda-datc/Robust-Design-Flow/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Cricric22/Multi-Cycle-RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 11"
+    },
+    {
+        "info": "quadrature oscillator playground",
+        "src": "https://github.com/tatzelbrumm/tt09-qosc/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/mariobrenesarroyo/Digitales-2/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "Simulation of verilog projects with Icarus Verilog and GTKWave",
+        "src": "https://github.com/Anish9901/verilog-simulations/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/lfrancis01/Lynnstinytapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "If you need help flashing it or creating it join my discord server",
+        "src": "https://github.com/dzul221/pcileech-family/archive/refs/heads/master.zip",
+        "stars": "13",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/naqinaqvi110/8_PSK/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/diferential/tt09-opamps-mix/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/KEV-MA/tt09/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "Another of my ring oscillator experiments for TT09",
+        "src": "https://github.com/algofoogle/tt09-ring-osc3/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/master-edwon/ECE_128-Lab5/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "Projeto da Disciplina de Linguagem de Descrição de Hardware",
+        "src": "https://github.com/Cyitron/FPGA_AirCondicioner/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "Verilog basic implementation of SPI protocol",
+        "src": "https://github.com/Jiovana/simple_spi/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/trh030211/FPGA-ASSIGNMENT2-LAB5/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/trh030211/FPGA-ASSIGNMENT2-LAB4/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "static timing analysis using OpenSTA. Example scripts for using verilog, spice, parasitic timing analysis",
+        "src": "https://github.com/Revenantx86/verilog_sta/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Mohitha-77807/16-Bit-ALU-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/littleblack-jh/super_cpu_plus/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/XY-C0DER/Latch/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/htfab/ttihp0p2-bouncy-capsule/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 29"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/vyomg25/Design-and-Analysis-of-LFSR-based-Content-Addressable-Memory/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dreamsofhabit/tiny_tapeout_first_template/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Jordanjmedina/jordanj/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Beazy4real/My_First-_Tapeout_-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/brendonchang/First-Tapeout-/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/SkillSurf/tinytapout-matmul-system/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/mhedayat777/Proj1/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/fbastaki/FB/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "binary counter displayed on a segment display",
+        "src": "https://github.com/phimea/bitcounter/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ztrubick/Tiny-Tapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 7"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/naqinaqvi110/risc_v_single_cycle/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/N8rBeans/TinyTapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Teimir/UARTP/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "Das coolste Projekt der Welt (es funktioniert nicht)",
+        "src": "https://github.com/Byter64/Hans/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/parallellogic-/TinyTapeoutLogic2024A/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dandekarsneha07/FPGA_systolic_booth_UART/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/bibhu-datta-sahoo/FirstTinyTapeOutNov2024/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sellicott/tt09_desk_alarm_clock/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "Tiny Tapeout 9 project",
+        "src": "https://github.com/FlyingFish800/tt09/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/NeuroCode333/Yohan-Tiny-Tapeout-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/kinnevo/tt09-tiny/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/navi2311/workshop/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/qasmokez/chip-design/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/neilparikh/tt09-wokwi/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/blu-exe/tinytapeout11-9/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/amanmaldar/tinyTapeout330/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/manitejarayabarap/firstWokWiDesign/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/prajwalsc/tt09/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Lilyx28/TinyTapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "My chip design from the TinyTapeout seminar at Stanford November 2024",
+        "src": "https://github.com/ChristopheKanoaMignard/2024TinyTapeout/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 10"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sadra-ghavami/4x4-Mesh-Grid-Network-on-Chip--NoC--in-Verilog/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "on Oct 27"
+    },
+    {
+        "info": "Verilog implementation for Low Density Parity Check Encoder and Decoder",
+        "src": "https://github.com/benySuho/LDPC-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 27"
+    },
+    {
+        "info": "Anton's test submission to TTIHP0p2",
+        "src": "https://github.com/algofoogle/ttihp0p2-algofoogle/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 27"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/myertas/First_Asic/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Aninditaa/DemoAND/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "Bloques y bancos de pruebas MAC para Ethernet 10G.",
+        "src": "https://github.com/sofiavalos/Verilog_Ethernet_10g_MAC/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Mennatallah-Karam/Low-Power-Configurable-Multi-Clock-Digital-System/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Nurzarina/4_Bit_Synchronous_Counter/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "Design & Implementation of Low Power Configurable Multi Clock Domain System using Verilog HDL",
+        "src": "https://github.com/mo2menwael/Low-Power-Configurable-Multi-Clock-Digital-System/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "Full design of asynchronous FIFO parameterized verilog code",
+        "src": "https://github.com/mohanad-abouelezz/Async-FIFO/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 26"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Zufallsgenerat0r/PIDcontroller/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/yathAg/sky130test/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/prerak2323/ASYNCHRONUS_FIFO_STA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/KeyshonHoward/Chip/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "Solutions to CS F342 Computer Architecture Lab Sheets",
+        "src": "https://github.com/RiverX15/CompArch-Labs/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "A Qpro Verilog Template",
+        "src": "https://github.com/Rhythmicc/QproVerilogTemplate/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/rana5679/RISC-V-Pipelined-Processor/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "Simple repository for learning git operations",
+        "src": "https://github.com/smubarak/git_learnin/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "N division frequency synthesizer with bandwitdh from 3MHz to 40MHz.",
+        "src": "https://github.com/yohanesstef/tt09-ams-freq_synthesizer/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "CPU",
+        "src": "https://github.com/moquan4543/moquanMIPS/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ar1eees/ai_accelerator/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/rose5689/my_fpga/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "Large Dimension Matrix Multiplier accelerator",
+        "src": "https://github.com/BiradarScripts/LDMMA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ChristianeSchwalm/tto9-B-10-array-multiplier/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "Just experimenting with alternative SRAM implementations",
+        "src": "https://github.com/tommythorn/tt09-sram/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 9"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/couchand/tt09-cora16/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/tag-226/FPGA5/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Nitheeshkumar521/FFT128point/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Aaryam-0110/S1-T2-Vehicle-Parking-System/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/S1-T4/S1-T4-Snakes-and-Ladders-with-Automated-Dice-System/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "Processador RISC-V construídos durante as aulas do Laboratório de Arquitetura de Sistemas Digitais.",
+        "src": "https://github.com/Lucivaldo1/risc-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 17"
+    },
+    {
+        "info": "This is the verilog implementation of the carry lookahead adder.",
+        "src": "https://github.com/Sachit0786/Carry_Lookahead_Adder/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/athgok/Asynchronous-FIFO/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 17"
+    },
+    {
+        "info": "the codes of BUAA CO project from P0 to P7",
+        "src": "https://github.com/XuanxuanRao/BUAA_2023_CO/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "on Oct 17"
+    },
+    {
+        "info": "Verilog Code to Implementation on FPGA of 8 Bit Multiplier Accumulator MAC",
+        "src": "https://github.com/afzalamu/8Bit-Multiplier-Accumulator-MAC-on-Artix7-FPGA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 17"
+    },
+    {
+        "info": "Verilog Code to Implementation on FPGA of 8 Bit Signed Multiplier",
+        "src": "https://github.com/afzalamu/8bit-signed-Multiplier-on-Artix7-FPGA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/cjx98cc/hdl_cnn/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Ajimenezph/AND/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 17"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sahil-mengji/verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 16"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Jzuni97/riscv-32i/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "on Oct 16"
+    }
+]
