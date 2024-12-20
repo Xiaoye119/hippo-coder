@@ -1,0 +1,1502 @@
+[
+    {
+        "info": "",
+        "src": "https://github.com/pouria2003/dummy/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 minutes ago"
+    },
+    {
+        "info": "Verilog RISC-V CPU",
+        "src": "https://github.com/HartmannPsi/RISC-V-CPU/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "1 hour ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/luoxianwu/lattice/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "1 hour ago"
+    },
+    {
+        "info": "This is a basic RISC-V based processor under development. It follows the 32-bit Integer ISA.",
+        "src": "https://github.com/SKpro-glitch/RISCV-Processor-ASIC/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "3 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Ironsuper1/ChippyGPU/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/aldicor/digital-1-lab/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 hours ago"
+    },
+    {
+        "info": "🌱 Open source ecosystem for open FPGA boards",
+        "src": "https://github.com/FPGAwars/apio/archive/refs/heads/master.zip",
+        "stars": "805",
+        "updated": "5 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/PanagiwthsPapadopoulos/hardware-1/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 hours ago"
+    },
+    {
+        "info": "Synchronous sequential system for ultrasound-based distance measurement using RTL design and implemented on a Basys3 FPGA with Verilog an…",
+        "src": "https://github.com/adino007/ultrasound-distance-measurement-rtl/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 hours ago"
+    },
+    {
+        "info": "Simple implementation of single-cycle and eventually pipelined RV32I",
+        "src": "https://github.com/apinise/RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Alexan2a/for_verilog_study/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 hours ago"
+    },
+    {
+        "info": "Design of a 32-bit Microprocessor based on ARM ISA",
+        "src": "https://github.com/Dehkt/32bit_ARM_Microprocessor/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/barry0977/RISCV-CPU/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/KyleParkJong/jpeg_decoder/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/caidzh/RISC-V-CPU/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/gaurav-singh2004/16-bit-Booth-Multiplier/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "13 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Seann0425/PikaBall-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "13 hours ago"
+    },
+    {
+        "info": "RV32I 5 Staged Pipelined Core written in Verilog, The core supports Data Forwarding, Load Stall, Load-Store Forwarding and 2 bit Bimodal …",
+        "src": "https://github.com/baselkelziye/PNR-CoreV1/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "13 hours ago"
+    },
+    {
+        "info": "Verilog code for HDL questions",
+        "src": "https://github.com/Madanprakash07/HDL-Bits/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "14 hours ago"
+    },
+    {
+        "info": "basic design of an MP3 player using FPGA Nexys A7-100T",
+        "src": "https://github.com/Dozer-vasanth/Audio-Processor/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "15 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/juamorenogo/Digital_2024_2/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "15 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/0xharry/RTL2GDS/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "15 hours ago"
+    },
+    {
+        "info": "EP2 e EP3",
+        "src": "https://github.com/kiyochii/SD/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "16 hours ago"
+    },
+    {
+        "info": "Collection of basic and essential RTL Design and Verification codes",
+        "src": "https://github.com/c0dE3P/100DaysofRTL/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "16 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/22MH1A04H3/HDLBits-Solutions/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "17 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sumukh900/RISC-V-processor/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "17 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/johnnycubides/digital-electronic-1-101/archive/refs/heads/master.zip",
+        "stars": "6",
+        "updated": "19 hours ago"
+    },
+    {
+        "info": "Designing a Dadda Tree Multiplier using Chisel (Scala), Verilog and Openlane",
+        "src": "https://github.com/mmcgruder213/Dadda-Tree-Multiplier/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "19 hours ago"
+    },
+    {
+        "info": "TP de réalisation d'un petit projet employant le HDMI pour l'affichage du logo de l'ENSEA",
+        "src": "https://github.com/OliverBELLIARD/2425_TPFPGA_Belliard_Priou/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "20 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/PaulTravail/2425_ESE_TP_FPGA_BOULOT_THOMAR/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "20 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Victorvkk38596/8-bit-cpu/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "HC800 Home Computer core",
+        "src": "https://github.com/QuorumComp/hc800/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "yesterday"
+    },
+    {
+        "info": "This project is an implementation of a single core RISCV processor in verilog",
+        "src": "https://github.com/MoonisAmir10/Classical-5-stage-pipelined-RISCV-Processor-In-Verilog/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/simi1505/ASAP7_Digital-Design-Template/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/WebberQ/eda/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/wspitts2/skywater-130nm-adk/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/lnigi/DMA-Controller-Intel-8237A-simplified-/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "2024年秋季学期中国科学院大学计算机体系结构实验课程代码",
+        "src": "https://github.com/ZeriWang/2024Fall_UCAS_CALAB/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/chandana38/RISCVerse/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "This will be the repository for a hardware model of the EER-RL Node Clustering Algorithm, created by Mutombo et. al., which currently exi…",
+        "src": "https://github.com/kendeloslado/EER-RL-HM/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Fredff1/2024-Fall-Digital-Design/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "21 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Manuelriso/TestingAssignment/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "22 hours ago"
+    },
+    {
+        "info": "VLSI Lab Experiment",
+        "src": "https://github.com/ME-TECH-ELECTRONICS/VLSI-LAB/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "23 hours ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/EPTansuo/ysyxSoC/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "verilog project",
+        "src": "https://github.com/nothingkim/smart_factory/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "Digital Integrated Circuits Final Project",
+        "src": "https://github.com/christianfarls/cmz25_final_project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "CPU Design supporting RISCV-32",
+        "src": "https://github.com/lzy001Yuki/RISCV-CPU/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/jbake121/Computer-Hardware-Design/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Miller1999/Lab02Batteries/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "中山大学计算机学院计算机组成原理实验作业及流水线CPU课程设计",
+        "src": "https://github.com/jjL357/SYSU_Computer-Organization-and-Design/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/h865686/EECE-RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "Repositorio para la materia de electrónica digital I 2024-II G4 E3",
+        "src": "https://github.com/yoyomasterNGP/Digital-I/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Erenkriger/caravel_user/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Erenkriger/caravel_user_project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Microchip-Vectorblox/VectorBlox-SoC-Video-Kit-Demo/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "EECS 3201 Digital Logic Design",
+        "src": "https://github.com/N70Kai/Digital-clocl/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/hasanatherate/DVLSI/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/kristiangoystdal/System_On-Chip_Lab/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "projects of CAD subject",
+        "src": "https://github.com/mohammadamintavanai/Computer-aided-design-of-digital-systems/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "FPGA related stuff",
+        "src": "https://github.com/sergz72/FPGA/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Victorvkk38596/8-bit-cpu/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "HC800 Home Computer core",
+        "src": "https://github.com/QuorumComp/hc800/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "yesterday"
+    },
+    {
+        "info": "XSCHEM symbol libraries for the Google-Skywater 130nm process design kit.",
+        "src": "https://github.com/StefanSchippers/xschem_sky130/archive/refs/heads/master.zip",
+        "stars": "59",
+        "updated": "yesterday"
+    },
+    {
+        "info": "This project is an implementation of a single core RISCV processor in verilog",
+        "src": "https://github.com/MoonisAmir10/Classical-5-stage-pipelined-RISCV-Processor-In-Verilog/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/hong211/2024_FALL_ICLAB/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/simi1505/ASAP7_Digital-Design-Template/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/serbuvlad/dsd_project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/WebberQ/eda/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/wspitts2/skywater-130nm-adk/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "forked from likewise/corundum",
+        "src": "https://github.com/dafengbaocy/corundum-withrmt/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/lnigi/DMA-Controller-Intel-8237A-simplified-/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "2024年秋季学期中国科学院大学计算机体系结构实验课程代码",
+        "src": "https://github.com/ZeriWang/2024Fall_UCAS_CALAB/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/chandana38/RISCVerse/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "This will be the repository for a hardware model of the EER-RL Node Clustering Algorithm, created by Mutombo et. al., which currently exi…",
+        "src": "https://github.com/kendeloslado/EER-RL-HM/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "yesterday"
+    },
+    {
+        "info": "The last Pcileech DMA CFW guide you will ever need.",
+        "src": "https://github.com/JPShag/PCILEECH-DMA-FW-Guide-2.0/archive/refs/heads/master.zip",
+        "stars": "117",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/JubayerONROB/FPGA-based-Home-Automation-System-/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/aditya-rv-vlsi/Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sumanjangid185/Traffic-Light-Controller-Using_Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/soumyaC204/FPGA-Harmonica/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "yesterday"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/habersaat/ece-350-tank-shooter/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/syng20/CMPE200/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/prerak2323/100-days-of-verilog/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/nJasow04/Out-of-Order-CPU/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/nic0-dev/COE168_MP/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/clash-lang/clash-vexriscv/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/faresSultan/Adaptive-Traffic-Controller/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "Path Planning bot which uses Xilinx Vivado Ecosystem",
+        "src": "https://github.com/5iri/Self-Ecomender/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "A comprehensive collection of Verilog modules for digital circuit design and FPGA implementation.",
+        "src": "https://github.com/Abhivandhana/Module-Design-Using-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/DavideZattra/helloWorld_Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Temperatura e Umidade: Sistema de Controle Automatizado (T.U.S.C.A.)",
+        "src": "https://github.com/00Vini/labdigi2-TUSCA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Msudeyanar/tobb-lablari/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "The 6809 Portion of the SuperPET",
+        "src": "https://github.com/TechCowboy/SuperPET_MiSTer/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/LuXeVi1/ResisterWhispers_CPE222_37/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "My final project",
+        "src": "https://github.com/flyh1ghh/final_project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "Repositório da disciplina de Arquitetura do 4º período de Ciência da Computação - UFS",
+        "src": "https://github.com/Yckson/Arquitetura/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/xSminJx/cloud/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/RAVINDRA0022/D_FLIPFLOP/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "Qspi master",
+        "src": "https://github.com/Chisel-blocks/qspi_master/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/DatNguyen-glitch/DIC-EX6/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/ucb-bar/MaDa/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "2 days ago"
+    },
+    {
+        "info": "Moscovium series MCU project for Xilinx Vivado",
+        "src": "https://github.com/1YEN-Toru/MCOC115-VD/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "This is an implementation of the game Spacewar that was made from C code that was transferred into Verilog using FSMs and a VGA.",
+        "src": "https://github.com/thebeard7/Spacewar/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/RenatoFeb/VerilogCalculator/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "This project implements a simple RISC-V processor for FPGAs. It supports the RV32I base instruction set and is designed for educational a…",
+        "src": "https://github.com/KietLe11/KLP32-RISCV/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "thesis",
+        "src": "https://github.com/Hammadomar1/PIMv2/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "ECE 287 Final Project for Section B - Authors: Royce Hatley & Samuel Kanaan",
+        "src": "https://github.com/hatleyrr/Audio-Equalizer/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "FPGA firmware + PC software to collect & archive data from high-energy physics experiments",
+        "src": "https://github.com/mzandrew/idlab-daq/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/thabthtt/car_game/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "It is a Choice your own adventure style program, where a VGA displays choice and results.",
+        "src": "https://github.com/AICoachCoder/ECE_287_Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "Duke MS ECE. Making PC in Verilog.",
+        "src": "https://github.com/WilliamBaltus/ECE550/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/DavideZattra/helloWorld_Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Temperatura e Umidade: Sistema de Controle Automatizado (T.U.S.C.A.)",
+        "src": "https://github.com/00Vini/labdigi2-TUSCA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Created a half adder in Verilog using an Artix 7 FPGA board",
+        "src": "https://github.com/StephenUde45/Half-Adder-in-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/asparticacid211/asparticacid211.github.io/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Minimig-AGA_MiSTer_Hybrid",
+        "src": "https://github.com/smarkusg/Minimig-AGA_MiSTer_Hybrid/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/AbdelrahmanEA8/RTL_of_Brent-Kung_fast_adder/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "JoSdc2024 - The Plumbers",
+        "src": "https://github.com/ahmadk47/JoSDC/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "collection of Verilog code samples e.g. for FPGA",
+        "src": "https://github.com/mnentwig/verilogSnippets/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sej3939/FIR-Filter-RTL/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Final Project of NYCU 112-1 Course: Digital Circuit Lab",
+        "src": "https://github.com/David810209/Dlab-FinalProject-PickachuVolleyball/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Tetris is implemented on the dot matrix display of CPLD-2900 using verilog.",
+        "src": "https://github.com/KhalidHossain3108/Tetris_On_CPLD_2900/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/diy-ic/tt-manchester-baby/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "FPGA-Конструктор для сборки эвм ДВК и Электроника-60",
+        "src": "https://github.com/forth32/dvk-fpga/archive/refs/heads/master.zip",
+        "stars": "22",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "hitwh mips cpu2024五级流水线设计 最后实现回文质数判断功能",
+        "src": "https://github.com/cu20/hitwh-mips-cpu2024-/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Zeven100/MIPS32/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/jeffbi-0/riscv_example1/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/n1elite/digital_verilog_mac/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "RISC-V RV32I instruction set CPU for study",
+        "src": "https://github.com/yoshiki9636/my-riscv-rv32i/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "A collection of my FPGA projects",
+        "src": "https://github.com/matiasilva/fpga-projects/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/daxzio/cocotbext-apb/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/syng20/CMPE200/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/riccardoDellaSala/TESTCHIP_2024/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/prerak2323/100-days-of-verilog/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/nJasow04/Out-of-Order-CPU/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/nic0-dev/COE168_MP/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/clash-lang/clash-vexriscv/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/faresSultan/Adaptive-Traffic-Controller/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "My first FPGA IP Core :)",
+        "src": "https://github.com/arian-nasr/GrayscaleVideoProcessor-IP-Core/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "Path Planning bot which uses Xilinx Vivado Ecosystem",
+        "src": "https://github.com/5iri/Self-Ecomender/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "A comprehensive collection of Verilog modules for digital circuit design and FPGA implementation.",
+        "src": "https://github.com/Abhivandhana/Module-Design-Using-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "My first FPGA IP Core :)",
+        "src": "https://github.com/arian-nasr/GrayscaleVideoProcessor-IP-Core/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "Path Planning bot which uses Xilinx Vivado Ecosystem",
+        "src": "https://github.com/5iri/Self-Ecomender/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "A comprehensive collection of Verilog modules for digital circuit design and FPGA implementation.",
+        "src": "https://github.com/Abhivandhana/Module-Design-Using-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/DavideZattra/helloWorld_Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Temperatura e Umidade: Sistema de Controle Automatizado (T.U.S.C.A.)",
+        "src": "https://github.com/00Vini/labdigi2-TUSCA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Created a half adder in Verilog using an Artix 7 FPGA board",
+        "src": "https://github.com/StephenUde45/Half-Adder-in-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/asparticacid211/asparticacid211.github.io/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples =>",
+        "src": "https://github.com/chili-chips-ba/openCologne/archive/refs/heads/master.zip",
+        "stars": "46",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "Minimig-AGA_MiSTer_Hybrid",
+        "src": "https://github.com/smarkusg/Minimig-AGA_MiSTer_Hybrid/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/AbdelrahmanEA8/RTL_of_Brent-Kung_fast_adder/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "basic morse code decoder written in verilog for use on FPGA",
+        "src": "https://github.com/japerry03/MorseCodeRepo/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/diogomatos-pic/efabless_test/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/SuryaIIITG/CPU_19_Bit/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/PARTHSHARMA4010/CAO/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/VanPham12/IP_Timer_8_Bit_FINAL_PROJECT/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 days ago"
+    },
+    {
+        "info": "This is a Verilog model of a daisy chain logic block that is used to determine the priorities of multiple interrupt sources. This block d…",
+        "src": "https://github.com/prabhathb/Daisy-Chain-Priority-Logic-Block-Active-Low-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "Tutorials and useful scripts for using RapidStream.",
+        "src": "https://github.com/rapidstream-org/rapidstream-cookbook/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Shreyankthehacker/ver/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Kareem-izzat/Multi-Cycle-RISC-Processor-/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/tag-226/FBGA-Final-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/baycici/hw/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dhyeyinf/Vivado-Xilinx/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/jeffbi-0/riscv_example1/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/n1elite/digital_verilog_mac/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "RISC-V RV32I instruction set CPU for study",
+        "src": "https://github.com/yoshiki9636/my-riscv-rv32i/archive/refs/heads/master.zip",
+        "stars": "3",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "A collection of my FPGA projects",
+        "src": "https://github.com/matiasilva/fpga-projects/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/daxzio/cocotbext-apb/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Nizami1141/7segment-/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/alansarijr/stm_labs/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Materloon/caravel_aes_accelerator/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/omerkarslioglu/fpga_vga_animation/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/shun7b/NSL_OV7670/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Jayachitra05/VLSI/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "A compilation of the exercises from HDLBits",
+        "src": "https://github.com/IKIGA-I/HDLBits-ProblemSets/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Chandery/LoongArchCPU-with-veriog-Implementation/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/DeV-ictor/PBL_Elevador/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Rishika0406/Car-Parking-system-using-VLSI-architecture/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/JemAmporinguez25/Thunderbird2/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "2024 fall VLSI testing and design for testability by Chia-Tso Chao",
+        "src": "https://github.com/313510145/VLSI-testing/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "5 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/StickierMoss/RyanW_Fall_2024/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/dol08222k/final-project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/haleybw/ECE287-Final-Project-Truco/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "Verilog Maze Game",
+        "src": "https://github.com/adymondsyan/The-Great-Maze-Craze/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "Moscovium series MCU project for Xilinx Vivado",
+        "src": "https://github.com/1YEN-Toru/MCOC115-VD/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "This is an implementation of the game Spacewar that was made from C code that was transferred into Verilog using FSMs and a VGA.",
+        "src": "https://github.com/thebeard7/Spacewar/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/RenatoFeb/VerilogCalculator/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/thomp549/ECE-287-Maze/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "This project implements a simple RISC-V processor for FPGAs. It supports the RV32I base instruction set and is designed for educational a…",
+        "src": "https://github.com/KietLe11/KLP32-RISCV/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "This repository houses the ModRetro Chromatic's FPGA design files.",
+        "src": "https://github.com/ModRetro/chromatic_fpga/archive/refs/heads/master.zip",
+        "stars": "14",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "thesis",
+        "src": "https://github.com/Hammadomar1/PIMv2/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "ECE 287 Final Project for Section B - Authors: Royce Hatley & Samuel Kanaan",
+        "src": "https://github.com/hatleyrr/Audio-Equalizer/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "FPGA firmware + PC software to collect & archive data from high-energy physics experiments",
+        "src": "https://github.com/mzandrew/idlab-daq/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/thabthtt/car_game/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "It is a Choice your own adventure style program, where a VGA displays choice and results.",
+        "src": "https://github.com/AICoachCoder/ECE_287_Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "Duke MS ECE. Making PC in Verilog.",
+        "src": "https://github.com/WilliamBaltus/ECE550/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "Final project for ECE 287",
+        "src": "https://github.com/cjbond12/ECE287-Final/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "Config files for my GitHub profile.",
+        "src": "https://github.com/sangwon0120/sangwon0120/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Temistat1/8-bit-carry-skip/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/nagomez7190/MIPS-Pipeline/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "This project is for academic research purpose. Starting with the basic module design using VerilogHDL, RV32I is designed. And based on th…",
+        "src": "https://github.com/RISC-KC/basic_rv32s/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "Raptor end-to-end FPGA Compiler and GUI",
+        "src": "https://github.com/os-fpga/Raptor/archive/refs/heads/master.zip",
+        "stars": "71",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/RPISEC/website/archive/refs/heads/master.zip",
+        "stars": "9",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "Board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key 🔑",
+        "src": "https://github.com/tillitis/tillitis-key1/archive/refs/heads/master.zip",
+        "stars": "404",
+        "updated": "yesterday"
+    },
+    {
+        "info": "Home otomation system",
+        "src": "https://github.com/yusufkulluk/EE241-Project/archive/refs/heads/master.zip",
+        "stars": "2",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "The USRP™ Hardware Driver Repository",
+        "src": "https://github.com/EttusResearch/uhd/archive/refs/heads/master.zip",
+        "stars": "1k",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/pedrom-dev/nano_rv32i/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "FuseSoC-based SoC for VeeR EH1 and EL2",
+        "src": "https://github.com/chipsalliance/VeeRwolf/archive/refs/heads/master.zip",
+        "stars": "295",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "Source code for RISC-V Architecture, ECE 224A - VLSI PROJECT DESIGN - UCSB Fall 2024",
+        "src": "https://github.com/Jash-2000/SUPERSCALER_RISC-V_CORE/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/kukhyeon/FPGA/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/tiealaces/SoC_Elevator/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/sindhugovi/Basic-Verilog-Programs/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "This project was developed as part of a university lab class on logical gates and computer architecture. The primary objective was to des…",
+        "src": "https://github.com/Armin-KF/Lab-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "6 days ago"
+    },
+    {
+        "info": "SystemVerilog synthesis tool",
+        "src": "https://github.com/chipsalliance/synlig/archive/refs/heads/master.zip",
+        "stars": "171",
+        "updated": "23 hours ago"
+    },
+    {
+        "info": "Repository for UCSD ECE284 project",
+        "src": "https://github.com/shail-vaidya/k-furthest-neighbors/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/SuryaIIITG/16-x-8-Asynchronous-FIFO/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "ASIC, Digital Design, Verilog, FPGA, Cadence, Xcelium",
+        "src": "https://github.com/parsejun30/digital_design_kopo/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "SKY130 SRAM macros generated by SRAM 22",
+        "src": "https://github.com/rahulk29/sram22_sky130_macros/archive/refs/heads/master.zip",
+        "stars": "9",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "Final Project for Advanced Hardware Design DP1 Project, NYU Tandon",
+        "src": "https://github.com/nuv203/Monobit_ASIC_V2/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/RightBackAtcha/MIPS_Pipeline/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "verilogHDL, ASIC, Semi Custom IC, Degital Design",
+        "src": "https://github.com/dudmlwn01/Digital_Design_Basic/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/MO100/SnakeGame/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/TahaZahid05/Two-Player-Snake/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "This is final project for ECE 287 were we have created a 2-D platformer game",
+        "src": "https://github.com/barkerb4/287_Final_Project_Platformer/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/yahia-khaled/Low-Power-Configurable-Multi-Clock-Digital-System/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/glassescrab/Lens_control/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "This repository is a submission to EE275 term project at San Jose State University.",
+        "src": "https://github.com/Kamlesh364/EE275_FinalProject_CacheSimulation/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "Cod laborator",
+        "src": "https://github.com/dragosb04/AC/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "Hardware Synthesis Lab I course from Chulalongkorn University.",
+        "src": "https://github.com/yokeTH/2110363-HW_SYN_LAB_I/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "Open source RV64GCB + supervisor core in Verilog.",
+        "src": "https://github.com/coderkalyan/warp/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/0jiyejia0/mlp_verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "7 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/PARTHSHARMA4010/CAO/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/VanPham12/IP_Timer_8_Bit_FINAL_PROJECT/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "9 days ago"
+    },
+    {
+        "info": "This is a Verilog model of a daisy chain logic block that is used to determine the priorities of multiple interrupt sources. This block d…",
+        "src": "https://github.com/prabhathb/Daisy-Chain-Priority-Logic-Block-Active-Low-Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "Tutorials and useful scripts for using RapidStream.",
+        "src": "https://github.com/rapidstream-org/rapidstream-cookbook/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Shreyankthehacker/ver/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/Kareem-izzat/Multi-Cycle-RISC-Processor-/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/tag-226/FBGA-Final-Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/tdg2-org/common/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/tag-226/FBGA8/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/arpitpaul/GCD_calculator/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "10 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/PunnawitAck3003/HardwareSynthesisLabTermProject/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "A repository containing source codes for 2110363 Hardware Synthesis Laboratory I Project written in Verilog",
+        "src": "https://github.com/ChanathipK/2110363-hw-syn-lab-project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "A compilation of my verilog designs as I practice the language, check the README for more detail.",
+        "src": "https://github.com/krn-codes/verilog-designs/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/master-edwon/ECE_128-Lab10/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "Organizacion de las Computadoras",
+        "src": "https://github.com/Lucasa98/Org-Computadoras/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "",
+        "src": "https://github.com/SecretKr/hw-lab-project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "Build the testbench library.",
+        "src": "https://github.com/Guan-Wei/testbench_lib/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "real",
+        "src": "https://github.com/JeansAthiwat/vivado_fproject_group_chess_detection/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "113上 交大 數位電路實驗 期末專題",
+        "src": "https://github.com/chou-ting-wei/NYCU_DCL-Final-Project/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "11 days ago"
+    },
+    {
+        "info": "com sys arch final project 2024",
+        "src": "https://github.com/JJnvn/CSA_Final_Project/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "11 days ago"
+    }
+]
