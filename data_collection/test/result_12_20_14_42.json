@@ -1,0 +1,86 @@
+[
+    {
+        "info": "Verilog RISC-V CPU",
+        "src": "https://github.com/HartmannPsi/RISC-V-CPU/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 35 minutes ago"
+    },
+    {
+        "info": "This is a basic RISC-V based processor under development. It follows the 32-bit Integer ISA.",
+        "src": "https://github.com/SKpro-glitch/RISCV-Processor-ASIC/archive/refs/heads/master.zip",
+        "stars": "1",
+        "updated": "Updated 2 hours ago"
+    },
+    {
+        "info": "🌱 Open source ecosystem for open FPGA boards",
+        "src": "https://githb.com/FPGAwars/apio/archive/refs/heads/master.zip",
+        "stars": "805",
+        "updated": "Updated 4 hours ago"
+    },
+    {
+        "info": "Synchronous sequential system for ultrasound-based distance measurement using RTL design and implemented on a Basys3 FPGA with Verilog an…",
+        "src": "",
+        "stars": "0",
+        "updated": "Updated 6 hours ago"
+    },
+    {
+        "info": "Simple implementation of single-cycle and eventually pipelined RV32I",
+        "src": "https://github.com/apinise/RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 8 hours ago"
+    },
+    {
+        "info": "Simple implementation of single-cycle and eventually pipelined RV32I",
+        "src": "https://github.com/apinise/RISC-V/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 8 hours ago"
+    },
+    {
+        "info": "Design of a 32-bit Microprocessor based on ARM ISA",
+        "src": "https://github.com/Dehkt/32bitM_Microprocessor/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 9 hours ago"
+    },
+    {
+        "info": "Just for fun",
+        "src": "https://github.com/maren04/Verilog/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 9 hours ago"
+    },
+    {
+        "info": "Public code from wright state projects",
+        "src": "https://github.com/AlexIsAUsername/Wright-State-Public-Code/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 10 hours ago"
+    },
+    {
+        "info": "Firmware for high dynamic range distributed analog to digital converter",
+        "src": "https://github.com/3j14/analog-in-fw/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 11 hours ago"
+    },
+    {
+        "info": "EP2 e EP3",
+        "src": "https://github.com/kiyochii/SD/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 15 hours ago"
+    },
+    {
+        "info": "Collection of basic and essential RTL Design and Verification codes",
+        "src": "https://github.com/c0dE3P/100DaysofRTL/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 15 hours ago"
+    },
+    {
+        "info": "Designing a Dadda Tree Multiplier using Chisel (Scala), Verilog and Openlane",
+        "src": "https://github.com/mmcgruder213/Dadda-Tree-Multiplier/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 19 hours ago"
+    },
+    {
+        "info": "TP de réalisation d'un petit projet employant le HDMI pour l'affichage du logo de l'ENSEA",
+        "src": "https://github.com/OliverBELLIARD/2425_TPFPGA_Belliard_Priou/archive/refs/heads/master.zip",
+        "stars": "0",
+        "updated": "Updated 19 hours ago"
+    }
+]

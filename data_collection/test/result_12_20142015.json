@@ -1,0 +1,1370 @@
+[
+    {
+        "info": "An open source GPU based off of the AMD Southern Islands ISA.",
+        "src": "https://github.com/VerticalResearchGroup/miaow/archive/refs/heads/master.zip",
+        "stars": "1.1k",
+        "updated": "on Sep 25, 2017"
+    },
+    {
+        "info": "The USRP™ Hardware Driver Repository",
+        "src": "https://github.com/EttusResearch/uhd/archive/refs/heads/master.zip",
+        "stars": "1k",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "🌱 Open source ecosystem for open FPGA boards",
+        "src": "https://github.com/FPGAwars/apio/archive/refs/heads/master.zip",
+        "stars": "805",
+        "updated": "4 hours ago"
+    },
+    {
+        "info": "The RIFFA development repository",
+        "src": "https://github.com/KastnerRG/riffa/archive/refs/heads/master.zip",
+        "stars": "785",
+        "updated": "on Jun 11"
+    },
+    {
+        "info": "open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware",
+        "src": "https://github.com/open-sdr/openwifi-hw/archive/refs/heads/master.zip",
+        "stars": "708",
+        "updated": "18 days ago"
+    },
+    {
+        "info": "Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC …",
+        "src": "https://github.com/sudhamshu091/32-Verilog-Mini-Projects/archive/refs/heads/master.zip",
+        "stars": "600",
+        "updated": "on Nov 13"
+    },
+    {
+        "info": "An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。",
+        "src": "https://github.com/WangXuan95/FPGA-FOC/archive/refs/heads/master.zip",
+        "stars": "578",
+        "updated": "on Sep 15, 2023"
+    },
+    {
+        "info": "使用Verilog实现的CNN模块，可以方便的在FPGA项目中使用",
+        "src": "https://github.com/QShen3/CNN-FPGA/archive/refs/heads/master.zip",
+        "stars": "506",
+        "updated": "on Jun 18, 2018"
+    },
+    {
+        "info": "The lab schedules for EECS168 at UC Riverside",
+        "src": "https://github.com/sheldonucr/ucr-eecs168-lab/archive/refs/heads/master.zip",
+        "stars": "494",
+        "updated": "on Oct 1"
+    },
+    {
+        "info": "Implementation of CNN on ZYNQ FPGA to classify handwritten numbers using MNIST database",
+        "src": "https://github.com/omarelhedaby/CNN-FPGA/archive/refs/heads/master.zip",
+        "stars": "415",
+        "updated": "on Feb 19, 2021"
+    },
+    {
+        "info": "在vscode上的数字设计开发插件",
+        "src": "https://github.com/Nitcloud/Digital-IDE/archive/refs/heads/master.zip",
+        "stars": "334",
+        "updated": "on Jan 27, 2023"
+    },
+    {
+        "info": "A Verilog HDL model of the MOS 6502 CPU",
+        "src": "https://github.com/Arlet/verilog-6502/archive/refs/heads/master.zip",
+        "stars": "333",
+        "updated": "on Apr 8, 2023"
+    },
+    {
+        "info": "基于FPGA的数字识别-实时视频处理的定点卷积神经网络实现",
+        "src": "https://github.com/suisuisi/FPGAandCNN/archive/refs/heads/master.zip",
+        "stars": "284",
+        "updated": "on May 2, 2023"
+    },
+    {
+        "info": "current focus on Colorlight i5 and i9 & i9plus module",
+        "src": "https://github.com/wuxx/Colorlight-FPGA-Projects/archive/refs/heads/master.zip",
+        "stars": "271",
+        "updated": "on Oct 6"
+    },
+    {
+        "info": "It's a core. Made on Twitch.",
+        "src": "https://github.com/geohot/twitchcore/archive/refs/heads/master.zip",
+        "stars": "252",
+        "updated": "on Nov 1, 2021"
+    },
+    {
+        "info": "RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.",
+        "src": "https://github.com/Evensgn/RISC-V-CPU/archive/refs/heads/master.zip",
+        "stars": "244",
+        "updated": "on Jan 12, 2018"
+    },
+    {
+        "info": "A Simple FPGA Core for Creating VGA/DVI/HDMI/OpenLDI Signals",
+        "src": "https://github.com/cliffordwolf/SimpleVOut/archive/refs/heads/master.zip",
+        "stars": "232",
+        "updated": "on Nov 29, 2018"
+    },
+    {
+        "info": "FPGA display controller with support for VGA, DVI, and HDMI.",
+        "src": "https://github.com/projf/display_controller/archive/refs/heads/master.zip",
+        "stars": "222",
+        "updated": "on Mar 9, 2020"
+    },
+    {
+        "info": "RePlAce global placement tool",
+        "src": "https://github.com/The-OpenROAD-Project/RePlAce/archive/refs/heads/master.zip",
+        "stars": "218",
+        "updated": "on Aug 13, 2020"
+    },
+    {
+        "info": "SD-Card controller, using either SPI, SDIO, or eMMC interfaces",
+        "src": "https://github.com/ZipCPU/sdspi/archive/refs/heads/master.zip",
+        "stars": "218",
+        "updated": "22 days ago"
+    },
+    {
+        "info": "A Verilog HDL model of the MOS 6502 CPU",
+        "src": "https://github.com/Arlet/verilog-6502/archive/refs/heads/master.zip",
+        "stars": "333",
+        "updated": "on Apr 8, 2023"
+    },
+    {
+        "info": "RIDECORE (RIsc-v Dynamic Execution CORE) is an Out-of-Order RISC-V processor written in Verilog HDL.",
+        "src": "https://github.com/ridecore/ridecore/archive/refs/heads/master.zip",
+        "stars": "332",
+        "updated": "on Jul 12, 2017"
+    },
+    {
+        "info": "FuseSoC-based SoC for VeeR EH1 and EL2",
+        "src": "https://github.com/chipsalliance/VeeRwolf/archive/refs/heads/master.zip",
+        "stars": "295",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "基于FPGA的数字识别-实时视频处理的定点卷积神经网络实现",
+        "src": "https://github.com/suisuisi/FPGAandCNN/archive/refs/heads/master.zip",
+        "stars": "284",
+        "updated": "on May 2, 2023"
+    },
+    {
+        "info": "current focus on Colorlight i5 and i9 & i9plus module",
+        "src": "https://github.com/wuxx/Colorlight-FPGA-Projects/archive/refs/heads/master.zip",
+        "stars": "271",
+        "updated": "on Oct 6"
+    },
+    {
+        "info": "It's a core. Made on Twitch.",
+        "src": "https://github.com/geohot/twitchcore/archive/refs/heads/master.zip",
+        "stars": "252",
+        "updated": "on Nov 1, 2021"
+    },
+    {
+        "info": "RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.",
+        "src": "https://github.com/Evensgn/RISC-V-CPU/archive/refs/heads/master.zip",
+        "stars": "244",
+        "updated": "on Jan 12, 2018"
+    },
+    {
+        "info": "A Simple FPGA Core for Creating VGA/DVI/HDMI/OpenLDI Signals",
+        "src": "https://github.com/cliffordwolf/SimpleVOut/archive/refs/heads/master.zip",
+        "stars": "232",
+        "updated": "on Nov 29, 2018"
+    },
+    {
+        "info": "FPGA display controller with support for VGA, DVI, and HDMI.",
+        "src": "https://github.com/projf/display_controller/archive/refs/heads/master.zip",
+        "stars": "222",
+        "updated": "on Mar 9, 2020"
+    },
+    {
+        "info": "RePlAce global placement tool",
+        "src": "https://github.com/The-OpenROAD-Project/RePlAce/archive/refs/heads/master.zip",
+        "stars": "218",
+        "updated": "on Aug 13, 2020"
+    },
+    {
+        "info": "SD-Card controller, using either SPI, SDIO, or eMMC interfaces",
+        "src": "https://github.com/ZipCPU/sdspi/archive/refs/heads/master.zip",
+        "stars": "218",
+        "updated": "22 days ago"
+    },
+    {
+        "info": "在FPGA上面实现一个NPU计算单元。能够执行矩阵运算（ADD/ADDi/ADDs/MULT/MULTi/DOT等）、图像处理运算（CONV/POOL等）、非线性映射（RELU/TANH/SIGM等）。",
+        "src": "https://github.com/cxdzyq1110/NPU_on_FPGA/archive/refs/heads/master.zip",
+        "stars": "206",
+        "updated": "on Aug 16, 2018"
+    },
+    {
+        "info": "Minimax: a Compressed-First, Microcoded RISC-V CPU",
+        "src": "https://github.com/gsmecher/minimax/archive/refs/heads/master.zip",
+        "stars": "205",
+        "updated": "on Apr 21"
+    },
+    {
+        "info": "This is an attempt to make clean Verilog sources for each chip on the Amiga.",
+        "src": "https://github.com/nonarkitten/amiga_replacement_project/archive/refs/heads/master.zip",
+        "stars": "197",
+        "updated": "on Apr 27"
+    },
+    {
+        "info": "通过学习《自己动手写CPU》，将书中实现的兼容MIPS32指令集架构的处理器——OpenMIPS（五级流水线结构），简化成单指令周期实现的处理器",
+        "src": "https://github.com/zach0zhang/Single_instruction_cycle_OpenMIPS/archive/refs/heads/master.zip",
+        "stars": "195",
+        "updated": "on Mar 2, 2022"
+    },
+    {
+        "info": "Implementation of CNN using Verilog",
+        "src": "https://github.com/AniketBadhan/Convolutional-Neural-Network/archive/refs/heads/master.zip",
+        "stars": "194",
+        "updated": "on Oct 13, 2017"
+    },
+    {
+        "info": "CHIP-8 console on FPGA",
+        "src": "https://github.com/pwmarcz/fpga-chip8/archive/refs/heads/master.zip",
+        "stars": "188",
+        "updated": "on Dec 16, 2018"
+    },
+    {
+        "info": "Convolutional accelerator kernel, target ASIC & FPGA",
+        "src": "https://github.com/lirui-shanghaitech/CNN-Accelerator-VLSI/archive/refs/heads/master.zip",
+        "stars": "172",
+        "updated": "on Apr 10, 2023"
+    },
+    {
+        "info": "SystemVerilog synthesis tool",
+        "src": "https://github.com/chipsalliance/synlig/archive/refs/heads/master.zip",
+        "stars": "171",
+        "updated": "22 hours ago"
+    },
+    {
+        "info": "NCTU 2021 Spring Integrated Circuit Design Laboratory",
+        "src": "https://github.com/mirkat1206/2021_Spring_NCTU_ICLAB/archive/refs/heads/master.zip",
+        "stars": "170",
+        "updated": "on Apr 2, 2023"
+    },
+    {
+        "info": "Deep Learning Accelerator (Convolution Neural Networks)",
+        "src": "https://github.com/taoyilee/clacc/archive/refs/heads/master.zip",
+        "stars": "168",
+        "updated": "on Dec 15, 2017"
+    },
+    {
+        "info": "IC implementation of Systolic Array for TPU",
+        "src": "https://github.com/abdelazeem201/Systolic-array-implementation-in-RTL-for-TPU/archive/refs/heads/master.zip",
+        "stars": "165",
+        "updated": "on Oct 21"
+    },
+    {
+        "info": "Support files for participating in a Fomu workshop",
+        "src": "https://github.com/im-tomu/fomu-workshop/archive/refs/heads/master.zip",
+        "stars": "162",
+        "updated": "on Mar 17"
+    },
+    {
+        "info": "Single/Multi-channel Full Speed USB interface for FPGA and ASIC designs",
+        "src": "https://github.com/ulixxe/usb_cdc/archive/refs/heads/master.zip",
+        "stars": "160",
+        "updated": "on Mar 10"
+    },
+    {
+        "info": "Dreamcast HDMI",
+        "src": "https://github.com/chriz2600/DreamcastHDMI/archive/refs/heads/master.zip",
+        "stars": "154",
+        "updated": "on Mar 25, 2023"
+    },
+    {
+        "info": "SoC design for Milkymist One - LM32, DDR SDRAM, 2D TMU, PFPU",
+        "src": "https://github.com/m-labs/milkymist/archive/refs/heads/master.zip",
+        "stars": "149",
+        "updated": "on Feb 18, 2014"
+    },
+    {
+        "info": "A collection of demonstration digital filters",
+        "src": "https://github.com/ZipCPU/dspfilters/archive/refs/heads/master.zip",
+        "stars": "143",
+        "updated": "on Jan 18"
+    },
+    {
+        "info": "CoreScore",
+        "src": "https://github.com/olofk/corescore/archive/refs/heads/master.zip",
+        "stars": "142",
+        "updated": "on Sep 9"
+    },
+    {
+        "info": "FPGA implementation of Cellular Neural Network (CNN)",
+        "src": "https://github.com/diaoenmao/FPGA-CNN/archive/refs/heads/master.zip",
+        "stars": "136",
+        "updated": "on Mar 30, 2018"
+    },
+    {
+        "info": "FPGA based transmitter",
+        "src": "https://github.com/dawsonjon/FPGA-TX/archive/refs/heads/master.zip",
+        "stars": "91",
+        "updated": "on Apr 14, 2017"
+    },
+    {
+        "info": "Homotopy theory in Coq.",
+        "src": "https://github.com/andrejbauer/Homotopy/archive/refs/heads/master.zip",
+        "stars": "90",
+        "updated": "on Mar 26, 2011"
+    },
+    {
+        "info": "8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV",
+        "src": "https://github.com/LIV2/GottaGoFastRAM/archive/refs/heads/master.zip",
+        "stars": "89",
+        "updated": "on Oct 19, 2023"
+    },
+    {
+        "info": "Multiply-Accumulate and Rectified-Linear Accelerator for Neural Networks",
+        "src": "https://github.com/SymbioticEDA/MARLANN/archive/refs/heads/master.zip",
+        "stars": "85",
+        "updated": "on Jul 3, 2019"
+    },
+    {
+        "info": "INT8 & FP16 multiplier accumulator (MAC) design with UVM verification completed.",
+        "src": "https://github.com/erihsu/INT_FP_MAC/archive/refs/heads/master.zip",
+        "stars": "84",
+        "updated": "on Sep 27, 2020"
+    },
+    {
+        "info": "AXI Interface Nand Flash Controller (Sync mode)",
+        "src": "https://github.com/cjhonlyone/NandFlashController/archive/refs/heads/master.zip",
+        "stars": "84",
+        "updated": "on Aug 9"
+    },
+    {
+        "info": "FPGA-based C64 Accelerator / C65 like computer",
+        "src": "https://github.com/gardners/c65gs/archive/refs/heads/master.zip",
+        "stars": "83",
+        "updated": "on Nov 14, 2017"
+    },
+    {
+        "info": "Riscv32 CPU Project",
+        "src": "https://github.com/lmxyy/Computer-Architecture-Task-2/archive/refs/heads/master.zip",
+        "stars": "82",
+        "updated": "on Jan 18, 2018"
+    },
+    {
+        "info": "Portable Verilog RTL interface to S27KL0641DABHI020 64Mbit HyperRAM IC",
+        "src": "https://github.com/blackmesalabs/hyperram/archive/refs/heads/master.zip",
+        "stars": "82",
+        "updated": "on Aug 10, 2018"
+    },
+    {
+        "info": "The last Pcileech DMA CFW guide you will ever need.",
+        "src": "https://github.com/JPShag/PCILEECH-DMA-FW-Guide-2.0/archive/refs/heads/master.zip",
+        "stars": "117",
+        "updated": "yesterday"
+    },
+    {
+        "info": "Tiny ASIC implementation for \"The Era of 1-bit LLMs All Large Language Models are in 1.58 Bits\" matrix multiplication unit",
+        "src": "https://github.com/rejunity/tiny-asic-1_58bit-matrix-mul/archive/refs/heads/master.zip",
+        "stars": "114",
+        "updated": "on Apr 19"
+    },
+    {
+        "info": "An FPGA-based NFC (RFID) reader with a simple circuit rather than RFID chips. 用FPGA+分立器件电路搭建一个NFC(RFID)读卡器，不需要专门的RFID芯片。",
+        "src": "https://github.com/WangXuan95/FPGA-NFC/archive/refs/heads/master.zip",
+        "stars": "113",
+        "updated": "on Jan 26"
+    },
+    {
+        "info": "A template for getting started with FPGA core development",
+        "src": "https://github.com/open-fpga/core-template/archive/refs/heads/master.zip",
+        "stars": "112",
+        "updated": "on May 4, 2023"
+    },
+    {
+        "info": "Basic RISC-V Test SoC",
+        "src": "https://github.com/ultraembedded/riscv_soc/archive/refs/heads/master.zip",
+        "stars": "107",
+        "updated": "on Apr 7, 2019"
+    },
+    {
+        "info": "This repository contains source code for past labs and projects involving FPGA and Verilog based designs",
+        "src": "https://github.com/nxbyte/Verilog-Projects/archive/refs/heads/master.zip",
+        "stars": "106",
+        "updated": "on Oct 2, 2019"
+    },
+    {
+        "info": "A 16-bit RISC CPU with 32 instructions built with Digital for running on an FPGA.",
+        "src": "https://github.com/rj45/rj32/archive/refs/heads/master.zip",
+        "stars": "105",
+        "updated": "on Sep 24, 2022"
+    },
+    {
+        "info": "Verilog Content Addressable Memory Module",
+        "src": "https://github.com/alexforencich/verilog-cam/archive/refs/heads/master.zip",
+        "stars": "102",
+        "updated": "on Mar 2, 2022"
+    },
+    {
+        "info": "A Full Hardware Real-Time Ray-Tracer",
+        "src": "https://github.com/tomverbeure/rt/archive/refs/heads/master.zip",
+        "stars": "92",
+        "updated": "on Oct 5, 2022"
+    },
+    {
+        "info": "XCrypto: a cryptographic ISE for RISC-V",
+        "src": "https://github.com/scarv/xcrypto/archive/refs/heads/master.zip",
+        "stars": "92",
+        "updated": "on Jan 5, 2023"
+    },
+    {
+        "info": "FPGA exercise for beginners",
+        "src": "https://github.com/yuri-panchul/basics-graphics-music/archive/refs/heads/master.zip",
+        "stars": "91",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "FPGA based transmitter",
+        "src": "https://github.com/dawsonjon/FPGA-TX/archive/refs/heads/master.zip",
+        "stars": "91",
+        "updated": "on Apr 14, 2017"
+    },
+    {
+        "info": "Homotopy theory in Coq.",
+        "src": "https://github.com/andrejbauer/Homotopy/archive/refs/heads/master.zip",
+        "stars": "90",
+        "updated": "on Mar 26, 2011"
+    },
+    {
+        "info": "Pipeline FFT Implementation in Verilog HDL",
+        "src": "https://github.com/nanamake/r22sdf/archive/refs/heads/master.zip",
+        "stars": "90",
+        "updated": "on Apr 14, 2019"
+    },
+    {
+        "info": "8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV",
+        "src": "https://github.com/LIV2/GottaGoFastRAM/archive/refs/heads/master.zip",
+        "stars": "89",
+        "updated": "on Oct 19, 2023"
+    },
+    {
+        "info": "Multiply-Accumulate and Rectified-Linear Accelerator for Neural Networks",
+        "src": "https://github.com/SymbioticEDA/MARLANN/archive/refs/heads/master.zip",
+        "stars": "85",
+        "updated": "on Jul 3, 2019"
+    },
+    {
+        "info": "INT8 & FP16 multiplier accumulator (MAC) design with UVM verification completed.",
+        "src": "https://github.com/erihsu/INT_FP_MAC/archive/refs/heads/master.zip",
+        "stars": "84",
+        "updated": "on Sep 27, 2020"
+    },
+    {
+        "info": "AXI Interface Nand Flash Controller (Sync mode)",
+        "src": "https://github.com/cjhonlyone/NandFlashController/archive/refs/heads/master.zip",
+        "stars": "84",
+        "updated": "on Aug 9"
+    },
+    {
+        "info": "中山大学计算机组成原理实验 (2018 秋)：用 Verilog 设计并实现的简易单周期和多周期 CPU",
+        "src": "https://github.com/Jed-Z/computer-organization-lab/archive/refs/heads/master.zip",
+        "stars": "92",
+        "updated": "on Mar 21, 2021"
+    },
+    {
+        "info": "A Full Hardware Real-Time Ray-Tracer",
+        "src": "https://github.com/tomverbeure/rt/archive/refs/heads/master.zip",
+        "stars": "92",
+        "updated": "on Oct 5, 2022"
+    },
+    {
+        "info": "XCrypto: a cryptographic ISE for RISC-V",
+        "src": "https://github.com/scarv/xcrypto/archive/refs/heads/master.zip",
+        "stars": "92",
+        "updated": "on Jan 5, 2023"
+    },
+    {
+        "info": "FPGA exercise for beginners",
+        "src": "https://github.com/yuri-panchul/basics-graphics-music/archive/refs/heads/master.zip",
+        "stars": "91",
+        "updated": "3 days ago"
+    },
+    {
+        "info": "FPGA based transmitter",
+        "src": "https://github.com/dawsonjon/FPGA-TX/archive/refs/heads/master.zip",
+        "stars": "91",
+        "updated": "on Apr 14, 2017"
+    },
+    {
+        "info": "Homotopy theory in Coq.",
+        "src": "https://github.com/andrejbauer/Homotopy/archive/refs/heads/master.zip",
+        "stars": "90",
+        "updated": "on Mar 26, 2011"
+    },
+    {
+        "info": "Pipeline FFT Implementation in Verilog HDL",
+        "src": "https://github.com/nanamake/r22sdf/archive/refs/heads/master.zip",
+        "stars": "90",
+        "updated": "on Apr 14, 2019"
+    },
+    {
+        "info": "8MB Autoconfig FastRAM for Amiga 500/1000/2000/CDTV",
+        "src": "https://github.com/LIV2/GottaGoFastRAM/archive/refs/heads/master.zip",
+        "stars": "89",
+        "updated": "on Oct 19, 2023"
+    },
+    {
+        "info": "Multiply-Accumulate and Rectified-Linear Accelerator for Neural Networks",
+        "src": "https://github.com/SymbioticEDA/MARLANN/archive/refs/heads/master.zip",
+        "stars": "85",
+        "updated": "on Jul 3, 2019"
+    },
+    {
+        "info": "INT8 & FP16 multiplier accumulator (MAC) design with UVM verification completed.",
+        "src": "https://github.com/erihsu/INT_FP_MAC/archive/refs/heads/master.zip",
+        "stars": "84",
+        "updated": "on Sep 27, 2020"
+    },
+    {
+        "info": "AXI Interface Nand Flash Controller (Sync mode)",
+        "src": "https://github.com/cjhonlyone/NandFlashController/archive/refs/heads/master.zip",
+        "stars": "84",
+        "updated": "on Aug 9"
+    },
+    {
+        "info": "FPGA-based C64 Accelerator / C65 like computer",
+        "src": "https://github.com/gardners/c65gs/archive/refs/heads/master.zip",
+        "stars": "83",
+        "updated": "on Nov 14, 2017"
+    },
+    {
+        "info": "Riscv32 CPU Project",
+        "src": "https://github.com/lmxyy/Computer-Architecture-Task-2/archive/refs/heads/master.zip",
+        "stars": "82",
+        "updated": "on Jan 18, 2018"
+    },
+    {
+        "info": "Portable Verilog RTL interface to S27KL0641DABHI020 64Mbit HyperRAM IC",
+        "src": "https://github.com/blackmesalabs/hyperram/archive/refs/heads/master.zip",
+        "stars": "82",
+        "updated": "on Aug 10, 2018"
+    },
+    {
+        "info": "Audio controller (I2S, SPDIF, DAC)",
+        "src": "https://github.com/ultraembedded/core_audio/archive/refs/heads/master.zip",
+        "stars": "81",
+        "updated": "on Sep 1, 2019"
+    },
+    {
+        "info": "一个FPGA核心板设计，体积小、低成本、易用、扩展性强。",
+        "src": "https://github.com/WangXuan95/UniPlug-FPGA/archive/refs/heads/master.zip",
+        "stars": "79",
+        "updated": "on Sep 14, 2023"
+    },
+    {
+        "info": "H264视频解码verilog实现",
+        "src": "https://github.com/aiminickwong/H264/archive/refs/heads/master.zip",
+        "stars": "78",
+        "updated": "on Aug 11, 2017"
+    },
+    {
+        "info": "This ARMv4-compatible CPU core is written in synthesiable verilog.It could launch uCLinux and Linux in MODELSIM. It has high Dhrystone be…",
+        "src": "https://github.com/risclite/ARM9-compatible-soft-CPU-core/archive/refs/heads/master.zip",
+        "stars": "77",
+        "updated": "on Oct 14, 2020"
+    },
+    {
+        "info": "An open-source benchmark for generating design RTL with natural language",
+        "src": "https://github.com/hkust-zhiyao/RTLLM/archive/refs/heads/master.zip",
+        "stars": "77",
+        "updated": "on Nov 8"
+    },
+    {
+        "info": "32-Bit Algorithms of Floating Point Operations are implemented on Verilog with logic Operations.",
+        "src": "https://github.com/nishthaparashar/Floating-Point-ALU-in-Verilog/archive/refs/heads/master.zip",
+        "stars": "76",
+        "updated": "on Apr 30, 2019"
+    },
+    {
+        "info": "\"What comes next? Super Mario 128? Actually, that's what I want to do.\"",
+        "src": "https://github.com/xenowing/xenowing/archive/refs/heads/master.zip",
+        "stars": "76",
+        "updated": "on Jan 23"
+    },
+    {
+        "info": "GPGPU supporting RISCV-V, developed with verilog HDL",
+        "src": "https://github.com/THU-DSP-LAB/ventus-gpgpu-verilog/archive/refs/heads/master.zip",
+        "stars": "75",
+        "updated": "on Aug 16"
+    },
+    {
+        "info": "A basic Soft(Gate)ware Defined Radio architecture",
+        "src": "https://github.com/ZipCPU/sdr/archive/refs/heads/master.zip",
+        "stars": "75",
+        "updated": "on Jan 18"
+    },
+    {
+        "info": "An FPGA-based LZMA compressor for generic data compression. 基于FPGA的LZMA压缩器，用于通用数据压缩。",
+        "src": "https://github.com/WangXuan95/FPGA-LZMA-compressor/archive/refs/heads/master.zip",
+        "stars": "75",
+        "updated": "on Sep 14, 2023"
+    },
+    {
+        "info": "JPEG Encoder Verilog",
+        "src": "https://github.com/freecores/jpegencode/archive/refs/heads/master.zip",
+        "stars": "73",
+        "updated": "on Oct 31, 2022"
+    },
+    {
+        "info": "Introductory course into static timing analysis (STA).",
+        "src": "https://github.com/brabect1/sta_basics_course/archive/refs/heads/master.zip",
+        "stars": "73",
+        "updated": "on Nov 3"
+    },
+    {
+        "info": "An FPGA implementation of a classic 80ies speech synthesizer. Done for the Retro Challenge 2017/10.",
+        "src": "https://github.com/trcwm/Speech256/archive/refs/heads/master.zip",
+        "stars": "72",
+        "updated": "on May 2, 2019"
+    },
+    {
+        "info": "An Example implementation of Open Source Graphics Accelerator, (A fixed point, fixed function pipeline GPU)",
+        "src": "https://github.com/maidenone/ORGFXSoC/archive/refs/heads/master.zip",
+        "stars": "72",
+        "updated": "on Jun 7, 2012"
+    },
+    {
+        "info": "Raptor end-to-end FPGA Compiler and GUI",
+        "src": "https://github.com/os-fpga/Raptor/archive/refs/heads/master.zip",
+        "stars": "71",
+        "updated": "8 days ago"
+    },
+    {
+        "info": "A bootloader for the SNES console",
+        "src": "https://github.com/defparam/21FX/archive/refs/heads/master.zip",
+        "stars": "56",
+        "updated": "on Nov 3, 2016"
+    },
+    {
+        "info": "Verilog Forward Error Correction Archive: BOX-Muller for fast AWGN generation, Universal Demapper from BPSK to QAM-512, different Forward…",
+        "src": "https://github.com/Lcrypto/FEC-Archive-Verilog/archive/refs/heads/master.zip",
+        "stars": "56",
+        "updated": "on Apr 28, 2023"
+    },
+    {
+        "info": "A computer system containing CPU, OS and Compiler under MIPS architecture.",
+        "src": "https://github.com/SilenceX12138/MIPS-Microsystems/archive/refs/heads/master.zip",
+        "stars": "56",
+        "updated": "on Sep 9, 2021"
+    },
+    {
+        "info": "Small (Q)SPI flash memory programmer in Verilog",
+        "src": "https://github.com/sergachev/spi_mem_programmer/archive/refs/heads/master.zip",
+        "stars": "55",
+        "updated": "on Nov 5, 2022"
+    },
+    {
+        "info": "A Sound Blaster compatible sound card for Micro Channel bus computers",
+        "src": "https://github.com/schlae/snark-barker-mca/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Apr 30, 2022"
+    },
+    {
+        "info": "Textbook and full source codes to learn basics of RISC-V pipelined CPU design using the Bluespec Hardware Design Language(s)",
+        "src": "https://github.com/rsnikhil/Learn_Bluespec_and_RISCV_Design/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Sep 13"
+    },
+    {
+        "info": "A simple RISC-V CPU written in Verilog.",
+        "src": "https://github.com/VenciFreeman/RISC-V/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Aug 17"
+    },
+    {
+        "info": "Pwn2Win 2020 Challenges",
+        "src": "https://github.com/pwn2winctf/challenges-2020/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on May 7, 2021"
+    },
+    {
+        "info": "CMU 18545 FPGA project -- Multi-channel ultrasound data acquisition and beamforming system.",
+        "src": "https://github.com/waynezv/FPGA_Ultrasound/archive/refs/heads/master.zip",
+        "stars": "65",
+        "updated": "on Apr 27, 2016"
+    },
+    {
+        "info": "OpenCAPI Acceleration Framework: develop an accelerator with OpenCAPI technology",
+        "src": "https://github.com/OpenCAPI/oc-accel/archive/refs/heads/master.zip",
+        "stars": "64",
+        "updated": "on Aug 29"
+    },
+    {
+        "info": "It is SATA 3 host controller. Using this you can read write to sata3 sdd/hdd from your fpga logic with simple memory like interface.",
+        "src": "https://github.com/CoreyChen922/sata3_host_controller/archive/refs/heads/master.zip",
+        "stars": "64",
+        "updated": "on Jun 2"
+    },
+    {
+        "info": "Mod kit for the Virtual Boy to make it output VGA or RGB video",
+        "src": "https://github.com/furrtek/VirtualTap/archive/refs/heads/master.zip",
+        "stars": "62",
+        "updated": "on Oct 23, 2023"
+    },
+    {
+        "info": "Open source 10 Gigabit Ethernet MAC core compatible with Xilinx's non-free 10GMAC",
+        "src": "https://github.com/forconesi/nfmac10g/archive/refs/heads/master.zip",
+        "stars": "61",
+        "updated": "on Jan 29, 2017"
+    },
+    {
+        "info": "TCP/IP controlled VPI JTAG Interface.",
+        "src": "https://github.com/fjullien/jtag_vpi/archive/refs/heads/master.zip",
+        "stars": "61",
+        "updated": "on Nov 2, 2021"
+    },
+    {
+        "info": "XSCHEM symbol libraries for the Google-Skywater 130nm process design kit.",
+        "src": "https://github.com/StefanSchippers/xschem_sky130/archive/refs/heads/master.zip",
+        "stars": "59",
+        "updated": "yesterday"
+    },
+    {
+        "info": "OpenSPARC-based SoC",
+        "src": "https://github.com/freecores/sparc64soc/archive/refs/heads/master.zip",
+        "stars": "59",
+        "updated": "on Jul 17, 2014"
+    },
+    {
+        "info": "A 32-bit MIPS processor which aims for conformance to the MIPS32 Release 1 ISA. This is a bare-metal CPU with no virtual memory. (Old Uni…",
+        "src": "https://github.com/grantae/mips32r1_xum/archive/refs/heads/master.zip",
+        "stars": "59",
+        "updated": "on Jul 29, 2015"
+    },
+    {
+        "info": "spartan6 blackmagic",
+        "src": "https://github.com/ekknod/pcileech-multimedia/archive/refs/heads/master.zip",
+        "stars": "58",
+        "updated": "on Jul 26"
+    },
+    {
+        "info": "Dual-issue RV64IM processor for fun & learning",
+        "src": "https://github.com/zephray/RISu064/archive/refs/heads/master.zip",
+        "stars": "57",
+        "updated": "on Jul 4, 2023"
+    },
+    {
+        "info": "A bootloader for the SNES console",
+        "src": "https://github.com/defparam/21FX/archive/refs/heads/master.zip",
+        "stars": "56",
+        "updated": "on Nov 3, 2016"
+    },
+    {
+        "info": "Verilog Forward Error Correction Archive: BOX-Muller for fast AWGN generation, Universal Demapper from BPSK to QAM-512, different Forward…",
+        "src": "https://github.com/Lcrypto/FEC-Archive-Verilog/archive/refs/heads/master.zip",
+        "stars": "56",
+        "updated": "on Apr 28, 2023"
+    },
+    {
+        "info": "A computer system containing CPU, OS and Compiler under MIPS architecture.",
+        "src": "https://github.com/SilenceX12138/MIPS-Microsystems/archive/refs/heads/master.zip",
+        "stars": "56",
+        "updated": "on Sep 9, 2021"
+    },
+    {
+        "info": "A 16-point radix-4 FFT chip, including Verilog codes, netlists and layout. Group project.",
+        "src": "https://github.com/VenciFreeman/FFT_ChipDesign/archive/refs/heads/master.zip",
+        "stars": "56",
+        "updated": "on Aug 17"
+    },
+    {
+        "info": "Small (Q)SPI flash memory programmer in Verilog",
+        "src": "https://github.com/sergachev/spi_mem_programmer/archive/refs/heads/master.zip",
+        "stars": "55",
+        "updated": "on Nov 5, 2022"
+    },
+    {
+        "info": "A Sound Blaster compatible sound card for Micro Channel bus computers",
+        "src": "https://github.com/schlae/snark-barker-mca/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Apr 30, 2022"
+    },
+    {
+        "info": "Textbook and full source codes to learn basics of RISC-V pipelined CPU design using the Bluespec Hardware Design Language(s)",
+        "src": "https://github.com/rsnikhil/Learn_Bluespec_and_RISCV_Design/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Sep 13"
+    },
+    {
+        "info": "Small (Q)SPI flash memory programmer in Verilog",
+        "src": "https://github.com/sergachev/spi_mem_programmer/archive/refs/heads/master.zip",
+        "stars": "55",
+        "updated": "on Nov 5, 2022"
+    },
+    {
+        "info": "A Sound Blaster compatible sound card for Micro Channel bus computers",
+        "src": "https://github.com/schlae/snark-barker-mca/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Apr 30, 2022"
+    },
+    {
+        "info": "Textbook and full source codes to learn basics of RISC-V pipelined CPU design using the Bluespec Hardware Design Language(s)",
+        "src": "https://github.com/rsnikhil/Learn_Bluespec_and_RISCV_Design/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Sep 13"
+    },
+    {
+        "info": "A simple RISC-V CPU written in Verilog.",
+        "src": "https://github.com/VenciFreeman/RISC-V/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Aug 17"
+    },
+    {
+        "info": "Another tiny RISC-V implementation",
+        "src": "https://github.com/ultraembedded/core_uriscv/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on Jul 19, 2021"
+    },
+    {
+        "info": "Pwn2Win 2020 Challenges",
+        "src": "https://github.com/pwn2winctf/challenges-2020/archive/refs/heads/master.zip",
+        "stars": "54",
+        "updated": "on May 7, 2021"
+    },
+    {
+        "info": "Icestudio Pixel Stream collection",
+        "src": "https://github.com/sergicuen/collection-iPxs/archive/refs/heads/master.zip",
+        "stars": "53",
+        "updated": "on Jun 1, 2018"
+    },
+    {
+        "info": "Исходные коды к главам книги \"Цифровой синтез: практический курс\" (под ред. А.Ю. Романова и Ю.В. Панчула)",
+        "src": "https://github.com/RomeoMe5/DDLM/archive/refs/heads/master.zip",
+        "stars": "53",
+        "updated": "on Sep 15, 2023"
+    },
+    {
+        "info": "BeagleBone HW, SW, & FPGA Development",
+        "src": "https://github.com/bikerglen/beagle/archive/refs/heads/master.zip",
+        "stars": "52",
+        "updated": "on Sep 19, 2015"
+    },
+    {
+        "info": "Verilog for a SECDED Hsaio ECC and a DEC ECC. Power, delay, and area are compared for Berkeley MASIC EEW241B - Advanced Digital Integrate…",
+        "src": "https://github.com/pansygrass/ecc/archive/refs/heads/master.zip",
+        "stars": "42",
+        "updated": "on Apr 29, 2015"
+    },
+    {
+        "info": "FLIX-V: FPGA, Linux and RISC-V",
+        "src": "https://github.com/FPGAwars/FLIX-V/archive/refs/heads/master.zip",
+        "stars": "41",
+        "updated": "on Nov 5, 2023"
+    },
+    {
+        "info": "[ASAP 2020; FPGA 2020] Hardware architecture to accelerate GNNs (common IP modules for minibatch training and full batch inference)",
+        "src": "https://github.com/GraphSAINT/GNN-ARCH/archive/refs/heads/master.zip",
+        "stars": "41",
+        "updated": "on Mar 30, 2021"
+    },
+    {
+        "info": "A look ahead, round-robing parametrized arbiter written in Verilog.",
+        "src": "https://github.com/bmartini/verilog-arbiter/archive/refs/heads/master.zip",
+        "stars": "41",
+        "updated": "on May 22, 2020"
+    },
+    {
+        "info": "Pipelined implementation of Sobel Edge Detection on OV7670 camera and on still images",
+        "src": "https://github.com/AngeloJacobo/FPGA_RealTime_and_Static_Sobel_Edge_Detection/archive/refs/heads/master.zip",
+        "stars": "41",
+        "updated": "on Nov 2, 2021"
+    },
+    {
+        "info": "Original RISC-V 1.0 implementation. Not supported.",
+        "src": "https://github.com/aswaterman/trainwreck/archive/refs/heads/master.zip",
+        "stars": "40",
+        "updated": "on Oct 4, 2018"
+    },
+    {
+        "info": "This repo is for Efinix Xyloni development board users. It has projects and software to get you started working with the board.",
+        "src": "https://github.com/Efinix-Inc/xyloni/archive/refs/heads/master.zip",
+        "stars": "40",
+        "updated": "on Jan 16, 2023"
+    },
+    {
+        "info": "Example Verilog code for Ulx3s",
+        "src": "https://github.com/lawrie/ulx3s_examples/archive/refs/heads/master.zip",
+        "stars": "40",
+        "updated": "on May 5, 2022"
+    },
+    {
+        "info": "An Verilog implementation of 7-to-1 LVDS Serializer. Which can be used for comunicating FPGAs with LVDS TFT Screens.",
+        "src": "https://github.com/racerxdl/LVDS-7-to-1-Serializer/archive/refs/heads/master.zip",
+        "stars": "47",
+        "updated": "on Nov 23, 2013"
+    },
+    {
+        "info": "MIPI CSI-2 Camera Sensor Receiver V2 Verilog HDL implementation For any generic FPGA. Tested with IMX219 IMX477 on Lattice Crosslink NX w…",
+        "src": "https://github.com/circuitvalley/USB3_MIPI_CSI2_RX_V2_Crosslink_NX/archive/refs/heads/master.zip",
+        "stars": "47",
+        "updated": "on Sep 8, 2020"
+    },
+    {
+        "info": "Linux-capable superscalar out-of-order RISC core (with Cache& MMU) and SoC, having been verified on Xilinx Kintex-7 FPGA.",
+        "src": "https://github.com/cassuto/nano-cpu32k/archive/refs/heads/master.zip",
+        "stars": "47",
+        "updated": "on Aug 14"
+    },
+    {
+        "info": "Processor repo",
+        "src": "https://github.com/Caskman/MIPS-Processor-in-Verilog/archive/refs/heads/master.zip",
+        "stars": "47",
+        "updated": "on Dec 19, 2013"
+    },
+    {
+        "info": "Xilinx FPGA, ADC344X, AD9252, 14x 12x Serdes, LVDS",
+        "src": "https://github.com/cjhonlyone/ADC-lvds/archive/refs/heads/master.zip",
+        "stars": "47",
+        "updated": "on Oct 20, 2022"
+    },
+    {
+        "info": "复旦大学 数字逻辑与部件设计实验 2020秋",
+        "src": "https://github.com/Tan-YiFan/DigitalLogic-Autumn2020/archive/refs/heads/master.zip",
+        "stars": "46",
+        "updated": "on Feb 18, 2022"
+    },
+    {
+        "info": "This course is given in TOBB ETU for Fall 2022-2023 semester as a second grade lecture. You can find lecture notes and Verilog codes rela…",
+        "src": "https://github.com/mbaykenar/digital-logic-design/archive/refs/heads/master.zip",
+        "stars": "46",
+        "updated": "on Apr 5, 2023"
+    },
+    {
+        "info": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples =>",
+        "src": "https://github.com/chili-chips-ba/openCologne/archive/refs/heads/master.zip",
+        "stars": "46",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "FPGA Tools and Library",
+        "src": "https://github.com/davidthings/spokefpga/archive/refs/heads/master.zip",
+        "stars": "45",
+        "updated": "on May 1, 2023"
+    },
+    {
+        "info": "CNN-Accelerator based on FPGA developed by verilog HDL.",
+        "src": "https://github.com/eda-lab/CNNAF-CNN-Accelerator_init/archive/refs/heads/master.zip",
+        "stars": "45",
+        "updated": "on Apr 10, 2020"
+    },
+    {
+        "info": "Digital Design Labs",
+        "src": "https://github.com/MIPSfpga/digital-design-lab-manual/archive/refs/heads/master.zip",
+        "stars": "23",
+        "updated": "on Dec 21, 2018"
+    },
+    {
+        "info": "Reference Hardware Implementations of Bit Extract/Deposit Instructions",
+        "src": "https://github.com/cliffordwolf/bextdep/archive/refs/heads/master.zip",
+        "stars": "23",
+        "updated": "on Oct 31, 2017"
+    },
+    {
+        "info": "七路图像在FPGA中实现拼接，代码会不断添加进来。",
+        "src": "https://github.com/mhhai/ImageStitchBasedOnFPGA/archive/refs/heads/master.zip",
+        "stars": "23",
+        "updated": "on Aug 17, 2021"
+    },
+    {
+        "info": "Verilog network module. Models network traffic from pcap to AXI-Stream",
+        "src": "https://github.com/lucasbrasilino/net2axis/archive/refs/heads/master.zip",
+        "stars": "23",
+        "updated": "on Apr 24, 2021"
+    },
+    {
+        "info": "Pipelined MIPS CPU（course assignment for BUAA-Computer-Organization）",
+        "src": "https://github.com/roife/BUAA-CO/archive/refs/heads/master.zip",
+        "stars": "23",
+        "updated": "on Feb 5, 2022"
+    },
+    {
+        "info": "中国科学院大学高级计算机体系结构课程作业：使用OpenROAD-flow完成RTL到GDS全流程",
+        "src": "https://github.com/nicolaswilde/UCAS-Advanced-Computer-Architecture-OpenROAD-flow/archive/refs/heads/master.zip",
+        "stars": "22",
+        "updated": "on May 30, 2020"
+    },
+    {
+        "info": "Hardware implementation of ORAM",
+        "src": "https://github.com/ascend-secure-processor/oram/archive/refs/heads/master.zip",
+        "stars": "22",
+        "updated": "on Jul 12, 2017"
+    },
+    {
+        "info": "Extremely basic CortexM0 SoC based on ARM DesignStart Eval",
+        "src": "https://github.com/siorpaes/BareBonesCortexM0/archive/refs/heads/master.zip",
+        "stars": "22",
+        "updated": "on Oct 8, 2018"
+    },
+    {
+        "info": "Benchmarks for Yosys development",
+        "src": "https://github.com/YosysHQ/yosys-bench/archive/refs/heads/master.zip",
+        "stars": "22",
+        "updated": "on Feb 17, 2020"
+    },
+    {
+        "info": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples =>",
+        "src": "https://github.com/chili-chips-ba/openCologne/archive/refs/heads/master.zip",
+        "stars": "46",
+        "updated": "4 days ago"
+    },
+    {
+        "info": "FPGA Tools and Library",
+        "src": "https://github.com/davidthings/spokefpga/archive/refs/heads/master.zip",
+        "stars": "45",
+        "updated": "on May 1, 2023"
+    },
+    {
+        "info": "CNN-Accelerator based on FPGA developed by verilog HDL.",
+        "src": "https://github.com/eda-lab/CNNAF-CNN-Accelerator_init/archive/refs/heads/master.zip",
+        "stars": "45",
+        "updated": "on Apr 10, 2020"
+    },
+    {
+        "info": "Project template for Artix-7 based Thinpad board",
+        "src": "https://github.com/thu-cs-lab/thinpad_top/archive/refs/heads/master.zip",
+        "stars": "45",
+        "updated": "on May 12, 2023"
+    },
+    {
+        "info": "FPGA board support and core ports for MiSTeX",
+        "src": "https://github.com/MiSTeX-devel/MiSTeX-ports/archive/refs/heads/master.zip",
+        "stars": "45",
+        "updated": "on Jun 1"
+    },
+    {
+        "info": "Code to support porting MiST cores to other boards.",
+        "src": "https://github.com/robinsonb5/DeMiSTify/archive/refs/heads/master.zip",
+        "stars": "44",
+        "updated": "on Oct 28"
+    },
+    {
+        "info": "tinyVision.ai Vision & Sensor FPGA System on Module",
+        "src": "https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM/archive/refs/heads/master.zip",
+        "stars": "44",
+        "updated": "on Jun 23, 2021"
+    },
+    {
+        "info": "Zynq-7000 DPU TRD",
+        "src": "https://github.com/sumilao/Zynq-7000-DPU-TRD/archive/refs/heads/master.zip",
+        "stars": "44",
+        "updated": "on Jul 19, 2019"
+    },
+    {
+        "info": "building blocks for accelerating ZK proofs over binary fields",
+        "src": "https://github.com/ingonyama-zk/open-binius/archive/refs/heads/master.zip",
+        "stars": "43",
+        "updated": "on Aug 8"
+    },
+    {
+        "info": "An CAN bus Controller implemented in Verilog",
+        "src": "https://github.com/Tommydag/CAN-Bus-Controller/archive/refs/heads/master.zip",
+        "stars": "43",
+        "updated": "on May 28, 2015"
+    },
+    {
+        "info": "Drop In USB CDC ACM core for iCE40 FPGA",
+        "src": "https://github.com/no2fpga/no2muacm/archive/refs/heads/master.zip",
+        "stars": "33",
+        "updated": "on Sep 5, 2021"
+    },
+    {
+        "info": "simulation and netfpga code",
+        "src": "https://github.com/harvard-cns/opensketch/archive/refs/heads/master.zip",
+        "stars": "33",
+        "updated": "on Apr 3, 2013"
+    },
+    {
+        "info": "UART 16550 core",
+        "src": "https://github.com/freecores/uart16550/archive/refs/heads/master.zip",
+        "stars": "32",
+        "updated": "on Jul 17, 2014"
+    },
+    {
+        "info": "JTAG Test Access Port (TAP)",
+        "src": "https://github.com/freecores/jtag/archive/refs/heads/master.zip",
+        "stars": "31",
+        "updated": "on Jul 17, 2014"
+    },
+    {
+        "info": "Hardware accelerator for convolutional neural networks",
+        "src": "https://github.com/8krisv/CNN-ACCELERATOR/archive/refs/heads/master.zip",
+        "stars": "31",
+        "updated": "on Aug 9, 2022"
+    },
+    {
+        "info": "This is mainly a simulation library of xilinx primitives that are verilator compatible.",
+        "src": "https://github.com/dirjud/Nitro-Parts-lib-Xilinx/archive/refs/heads/master.zip",
+        "stars": "31",
+        "updated": "on Jul 15"
+    },
+    {
+        "info": "实现了5段流水的CPU This project is verilog that implements 5-stage-pipeline-cpu",
+        "src": "https://github.com/lerogo/5-stage-pipeline-cpu/archive/refs/heads/master.zip",
+        "stars": "31",
+        "updated": "on Sep 21, 2021"
+    },
+    {
+        "info": "A series of (practise) projects of RISC-V cores. All cores will support at least the I instruction set. Expect bugs/limitations for earli…",
+        "src": "https://github.com/rongcuid/riscv-megaproject/archive/refs/heads/master.zip",
+        "stars": "30",
+        "updated": "on Nov 25, 2018"
+    },
+    {
+        "info": "用Altera FPGA芯片自制CPU",
+        "src": "https://github.com/zhangly/azpr_cpu/archive/refs/heads/master.zip",
+        "stars": "39",
+        "updated": "on Aug 10, 2014"
+    },
+    {
+        "info": "Two Level Cache Controller implementation in Verilog HDL",
+        "src": "https://github.com/omega-rg/Cache-Controller/archive/refs/heads/master.zip",
+        "stars": "39",
+        "updated": "on Jul 9, 2020"
+    },
+    {
+        "info": "I present a novel pipelined fast Fourier transform (FFT) architecture which is capable of producing the output sequence in normal order. …",
+        "src": "https://github.com/abdelazeem201/Design-and-ASIC-Implementation-of-32-Point-FFT-Processor/archive/refs/heads/master.zip",
+        "stars": "39",
+        "updated": "on Dec 3, 2023"
+    },
+    {
+        "info": "A low cost HDMI video lag tester.",
+        "src": "https://github.com/pthalin/video_lag_tester/archive/refs/heads/master.zip",
+        "stars": "39",
+        "updated": "on Nov 22, 2023"
+    },
+    {
+        "info": "A softcore microprocessor of MIPS32 architecture.",
+        "src": "https://github.com/RickyTino/MangoMIPS32/archive/refs/heads/master.zip",
+        "stars": "39",
+        "updated": "on Jun 28"
+    },
+    {
+        "info": "A RISC-V software platform, exposing Analogue Pocket capabilities in a simple way",
+        "src": "https://github.com/agg23/openfpga-litex/archive/refs/heads/master.zip",
+        "stars": "38",
+        "updated": "on Aug 9"
+    },
+    {
+        "info": "DMA Firmware",
+        "src": "https://github.com/yxlnqs/diviner-full-emu-v2/archive/refs/heads/master.zip",
+        "stars": "38",
+        "updated": "on Jul 26"
+    },
+    {
+        "info": "A Flexible and Energy Efficient Accelerator For Sparse Convolution Neural Network",
+        "src": "https://github.com/BoooC/CNN-Accelerator-Based-on-Eyeriss-v2/archive/refs/heads/master.zip",
+        "stars": "38",
+        "updated": "on Aug 28"
+    },
+    {
+        "info": "Quickstart guide on Icarus Verilog.",
+        "src": "https://github.com/albertxie/iverilog-tutorial/archive/refs/heads/master.zip",
+        "stars": "38",
+        "updated": "on Jun 18, 2020"
+    },
+    {
+        "info": "Design real-time image processing, object recognition and PID control for Autonomous Drone.",
+        "src": "https://github.com/ISKU/Autonomous-Drone-Design/archive/refs/heads/master.zip",
+        "stars": "30",
+        "updated": "on Nov 26, 2017"
+    },
+    {
+        "info": "This is a practice of verilog coding",
+        "src": "https://github.com/M-HHH/HDLBits_Practice_verilog/archive/refs/heads/master.zip",
+        "stars": "30",
+        "updated": "on Jul 10, 2019"
+    },
+    {
+        "info": "Single Long Short Term Memory (LSTM) cell : Verilog Implementation",
+        "src": "https://github.com/ahirsharan/LSTM/archive/refs/heads/master.zip",
+        "stars": "30",
+        "updated": "on May 20, 2020"
+    },
+    {
+        "info": "Multi-cycle pipelined ARM-LEGv8 CPU with Forwarding and Hazard Detection.",
+        "src": "https://github.com/ronitrex/ARMLEG/archive/refs/heads/master.zip",
+        "stars": "30",
+        "updated": "on Jan 1, 2022"
+    },
+    {
+        "info": "FPGA-based glitcher for the Digilent Arty FPGA development board.",
+        "src": "https://github.com/toothlessco/arty-glitcher/archive/refs/heads/master.zip",
+        "stars": "29",
+        "updated": "on Aug 18, 2017"
+    },
+    {
+        "info": "同济大学数字逻辑综合作业",
+        "src": "https://github.com/ZhengBryan/FPGA-FigureRecognition/archive/refs/heads/master.zip",
+        "stars": "29",
+        "updated": "on Jan 12"
+    },
+    {
+        "info": "my UVM training projects",
+        "src": "https://github.com/amamory-verification/uvm-basics/archive/refs/heads/master.zip",
+        "stars": "29",
+        "updated": "on Mar 14, 2019"
+    },
+    {
+        "info": "Verilog code for C128 custom chips",
+        "src": "https://github.com/jgrip/c128-verilog/archive/refs/heads/master.zip",
+        "stars": "29",
+        "updated": "on Mar 25"
+    },
+    {
+        "info": "Laboratory works for digital electronics course in Kyiv Polytechnic Institute, Department of Design of Electronic Digital Equipment, Elec…",
+        "src": "https://github.com/KorotkiyEugene/digital_lab/archive/refs/heads/master.zip",
+        "stars": "29",
+        "updated": "on Nov 18, 2019"
+    },
+    {
+        "info": "Design and documentation for a very simple 4-bit processor named NibbleBuddy and its assembler.",
+        "src": "https://github.com/aofarmakis/Nibbling-bits/archive/refs/heads/master.zip",
+        "stars": "29",
+        "updated": "12 days ago"
+    },
+    {
+        "info": "Altera Cyclone IV FPGA project for the PCIe LimeSDR board",
+        "src": "https://github.com/myriadrf/LimeSDR-PCIe_GW/archive/refs/heads/master.zip",
+        "stars": "36",
+        "updated": "on Nov 3, 2022"
+    },
+    {
+        "info": "migen + misoc + redpitaya = digital servo",
+        "src": "https://github.com/quartiq/redpid/archive/refs/heads/master.zip",
+        "stars": "36",
+        "updated": "on Jan 11, 2019"
+    },
+    {
+        "info": "Implementation of cryptographic algorithm with verilog hdl(such as des,aes,sha,rsa,ecc etc.)",
+        "src": "https://github.com/crypt-xie/XCryptCore/archive/refs/heads/master.zip",
+        "stars": "36",
+        "updated": "on Dec 1, 2019"
+    },
+    {
+        "info": "SDR Micron USB receiver",
+        "src": "https://github.com/Dfinitski/SDR-Micron/archive/refs/heads/master.zip",
+        "stars": "36",
+        "updated": "on Apr 9, 2023"
+    },
+    {
+        "info": "Step by step tutorial for building CortexM0 SoC",
+        "src": "https://github.com/flyjancy/CortexM0_SoC_Task/archive/refs/heads/master.zip",
+        "stars": "36",
+        "updated": "on Mar 29, 2022"
+    },
+    {
+        "info": "Collection of digital hardware modules & projects (benchmarks)",
+        "src": "https://github.com/ispras/hdl-benchmarks/archive/refs/heads/master.zip",
+        "stars": "36",
+        "updated": "on Nov 14"
+    },
+    {
+        "info": "LMS-Adaptive Filter implement using verilog and Matlab",
+        "src": "https://github.com/DexWen/LMS-Adaptive-filter/archive/refs/heads/master.zip",
+        "stars": "36",
+        "updated": "on Oct 21, 2016"
+    },
+    {
+        "info": "Open-source CSI-2 receiver for Xilinx UltraScale parts",
+        "src": "https://github.com/stevenbell/csirx/archive/refs/heads/master.zip",
+        "stars": "35",
+        "updated": "on Jul 10, 2019"
+    },
+    {
+        "info": "Solution to COA LAB Assgn, IIT Kharagpur",
+        "src": "https://github.com/vedic-partap/Computer-Organization-and-Architecture-LAB/archive/refs/heads/master.zip",
+        "stars": "35",
+        "updated": "on Jan 10, 2019"
+    },
+    {
+        "info": "Konami Bubble System Bubble Memory Cartridge FBM-#101 Emulator",
+        "src": "https://github.com/ika-musume/BubbleDrive8/archive/refs/heads/master.zip",
+        "stars": "24",
+        "updated": "on Aug 4"
+    },
+    {
+        "info": "Circuits and hardware security modules formally verified with Knox 🔐",
+        "src": "https://github.com/anishathalye/knox-hsm/archive/refs/heads/master.zip",
+        "stars": "24",
+        "updated": "on Mar 19"
+    },
+    {
+        "info": "VexRiscv-SMP integration test with LiteX.",
+        "src": "https://github.com/enjoy-digital/litex_vexriscv_smp_test/archive/refs/heads/master.zip",
+        "stars": "24",
+        "updated": "on Nov 16, 2020"
+    },
+    {
+        "info": "Delta-Sigma modulator (DSM) for fractional phase locked loop.",
+        "src": "https://github.com/Starrynightzyq/Delta-Sigma-Modulator/archive/refs/heads/master.zip",
+        "stars": "24",
+        "updated": "on May 28, 2021"
+    },
+    {
+        "info": "Digital Design Labs",
+        "src": "https://github.com/MIPSfpga/digital-design-lab-manual/archive/refs/heads/master.zip",
+        "stars": "23",
+        "updated": "on Dec 21, 2018"
+    },
+    {
+        "info": "Reference Hardware Implementations of Bit Extract/Deposit Instructions",
+        "src": "https://github.com/cliffordwolf/bextdep/archive/refs/heads/master.zip",
+        "stars": "23",
+        "updated": "on Oct 31, 2017"
+    },
+    {
+        "info": "七路图像在FPGA中实现拼接，代码会不断添加进来。",
+        "src": "https://github.com/mhhai/ImageStitchBasedOnFPGA/archive/refs/heads/master.zip",
+        "stars": "23",
+        "updated": "on Aug 17, 2021"
+    },
+    {
+        "info": "北京大学数字集成电路设计课程作业—FPGA设计【Assignment of digital integrated circuit design course of Peking University】",
+        "src": "https://github.com/JackHCC/Digital-Integrated-Circuit-Design/archive/refs/heads/master.zip",
+        "stars": "27",
+        "updated": "on Jan 1, 2022"
+    },
+    {
+        "info": "Example using DDR2 memory and MIG IP on the Nexys 4 DDR / Nexys A7 FPGA Trainer",
+        "src": "https://github.com/ChrisPVille/mig_example/archive/refs/heads/master.zip",
+        "stars": "27",
+        "updated": "on Jun 7, 2022"
+    },
+    {
+        "info": "FPGA250 aboard the eFabless Caravel",
+        "src": "https://github.com/ucb-cs250/caravel_fpga250/archive/refs/heads/master.zip",
+        "stars": "27",
+        "updated": "on Dec 22, 2020"
+    },
+    {
+        "info": "Reindeer Soft CPU for Step CYC10 FPGA board",
+        "src": "https://github.com/PulseRain/Reindeer_Step/archive/refs/heads/master.zip",
+        "stars": "27",
+        "updated": "on Dec 2, 2020"
+    },
+    {
+        "info": "Verilog RTL Design",
+        "src": "https://github.com/ishfaqahmed29/SerDes/archive/refs/heads/master.zip",
+        "stars": "27",
+        "updated": "on Sep 4, 2021"
+    },
+    {
+        "info": "A simple RISC-V core, described with Verilog",
+        "src": "https://github.com/qmn/riscv-invicta/archive/refs/heads/master.zip",
+        "stars": "26",
+        "updated": "on Jun 1, 2013"
+    },
+    {
+        "info": "This repo shows an implementation of an FPGA from RTL to GDS with open Skywater-130 pdk",
+        "src": "https://github.com/FPGA-Research-Manchester/eFPGA---RTL-to-GDS-with-SKY130/archive/refs/heads/master.zip",
+        "stars": "26",
+        "updated": "on Jun 2, 2021"
+    },
+    {
+        "info": "RISC V core implementation using Verilog.",
+        "src": "https://github.com/spider-tronix/VLSI/archive/refs/heads/master.zip",
+        "stars": "26",
+        "updated": "on Mar 27, 2021"
+    }
+]
