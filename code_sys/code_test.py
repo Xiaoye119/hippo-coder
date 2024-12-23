@@ -7,37 +7,16 @@ import math
 from statistics import stdev
 
 # 定义关键词列表（可以根据实际需求调整）
-# 定义关键词列表（可以根据实际需求调整）
 KEYWORDS = [
-    'wire', 'reg', 'input', 'output', 'inout', 'module', 'endmodule', 'parameter',
-    'always', 'initial', 'if', 'else', 'case', 'for', 'while', 'function', 'task',
-    'assign', 'begin', 'end', 'fork', 'join', 'posedge', 'negedge'
-]
-
-# 定义关键词列表（可以根据实际需求调整）
-KEYWORDS = [
-    # 基本结构关键字
     'module', 'endmodule', 'input', 'output', 'inout', 'wire', 'reg', 'integer',
     'parameter', 'localparam', 'function', 'endfunction', 'task', 'endtask',
-
-    # 控制结构
     'if', 'else', 'case', 'casex', 'casez', 'default', 'for', 'while', 'repeat',
-
-    # 过程块
     'always', 'initial', 'begin', 'end', 'fork', 'join', 'posedge', 'negedge',
-
-    # 数据类型
     'bit', 'logic', 'byte', 'shortint', 'int', 'longint', 'shortreal', 'chandle',
     'string', 'enum', 'struct', 'union', 'typedef', 'signed', 'unsigned',
-
-    # 接口和类
     'interface', 'endinterface', 'modport', 'class', 'endclass', 'extends',
     'implements', 'virtual', 'import', 'export', 'package',
-
-    # 断言和验证
     'assert', 'assume', 'cover', 'expect', 'property', 'sequence',
-
-    # 随机化和约束
     'rand', 'randc', 'constraint', 'with', 'inside'
 ]
 
@@ -76,7 +55,7 @@ def score_by_repetition(files_content, n=10):
     return scores
 
 
-def score_by_keyword_occurrence(files_content, ideal_ratio=0.05):
+def score_by_keyword_occurrence(files_content):
     """根据关键词出现率打分."""
     scores = {}
     keyword_pattern = re.compile('|'.join(re.escape(kw) for kw in KEYWORDS))
@@ -85,16 +64,14 @@ def score_by_keyword_occurrence(files_content, ideal_ratio=0.05):
         content = ''.join(lines).lower()
         words = re.findall(r'\b\w+\b', content)
         matches = keyword_pattern.findall(content)
-        count = Counter(matches)
-        total_keywords = sum(count.values())
+        total_keywords = len(matches)
         total_words = len(words)
 
         if total_words == 0:
-            score = 20  # 基础分数，避免零分情况
+            score = 0
         else:
-            actual_ratio = total_keywords / total_words
-            ratio_diff = abs(actual_ratio - ideal_ratio)
-            score = max(20, (1 - ratio_diff) * 80 + 20)  # 最小得分为20分
+            ratio_diff = total_keywords / total_words
+            score = max(20, (1 - ratio_diff) * 100)
 
         scores[filename] = int(score)
     return scores
@@ -154,51 +131,36 @@ def score_by_code_length_diversity(files_content, min_ideal_length=5, max_ideal_
 
 
 def score_by_information_entropy(files_content):
-    """根据单行信息熵打分."""
+    """根据单行信息熵打分，简化版."""
 
-    def calculate_entropy(text):
-        if not text:
+    def calculate_entropy(elements):
+        if not elements:
             return 0
-        counter = Counter(text)
-        probabilities = [count / len(text) for count in counter.values()]
-        entropy = -sum(p * math.log2(p) for p in probabilities)
-        return entropy
+        counter = Counter(elements)
+        probabilities = [count / len(elements) for count in counter.values()]
+        return -sum(p * math.log2(p) for p in probabilities)
 
     scores = {}
     for filename, lines in files_content.items():
-        char_entropies = []
-        word_entropies = []
+        entropies = [
+            (calculate_entropy(line.replace(" ", "")), calculate_entropy(line.split()))
+            for line in lines if line.strip()
+        ]
 
-        for line in lines:
-            stripped_line = line.strip()
-            if not stripped_line:
-                continue
-
-            # 计算字符级别的信息熵
-            char_entropy = calculate_entropy(stripped_line.replace(" ", ""))
-            char_entropies.append(char_entropy)
-
-            # 计算单词级别的信息熵
-            words = stripped_line.split()
-            if words:
-                word_entropy = calculate_entropy(words)
-                word_entropies.append(word_entropy)
-
-        if not char_entropies or not word_entropies:
+        if not entropies:
             score = 0
         else:
-            avg_char_entropy = sum(char_entropies) / len(char_entropies)
-            avg_word_entropy = sum(word_entropies) / len(word_entropies)
-            # 综合字符和单词的信息熵给出得分
+            avg_char_entropy = sum(char_entropy for char_entropy, _ in entropies) / len(entropies)
+            avg_word_entropy = sum(word_entropy for _, word_entropy in entropies) / len(entropies)
             score = (avg_char_entropy + avg_word_entropy) / 2
-            score = min(100, score * 10)  # 调整比例使得最大得分为100
+            score = min(100, score * 20)  # 最大得分为100
 
         scores[filename] = score
     return scores
 
 
 def main():
-    directory = r'D:\My_Study\NLP\NO_7\project01 - code_model\hippo-coder\code_sys'
+    directory = r'./'
 
     files_content = read_verilog_files(directory)
 
