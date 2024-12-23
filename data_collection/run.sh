@@ -26,7 +26,10 @@ fi
 for zip_file in "$TARGET_PATH"/*.zip; do
     if [ -f "$zip_file" ]; then
         echo "解压缩 $zip_file 到 $DESTINATION_FOLDER"
-        unzip "$zip_file" -d "$DESTINATION_FOLDER"
+        # zip_file = ../zipfiles/dragonlord1129_RISC-V-Simplified-Implementation.zip
+        dir_name=$(basename "$zip_file" .zip)
+        mkdir -p "$DESTINATION_FOLDER/$dir_name"
+        unzip "$zip_file" -d "$DESTINATION_FOLDER/$dir_name"
     fi
 done
 
