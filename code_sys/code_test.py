@@ -38,6 +38,10 @@ def calculate_similarity_ratio(str1, str2):
 
 
 def score_by_repetition(files_content, n=10):
+    # TODO 整个文件的代码行数决定随机行数，设定个比例
+    # TODO 分组，设置块大小，随机抽取块比对
+    # TODO 分组，设按照上面的分组，计算交叉数，交叉数多的给更高的
+    # TODO 迷你哈希计算相似度，minihash，行和行相比
     """根据重复程度打分."""
     scores = {}
     for filename, lines in files_content.items():
@@ -57,6 +61,7 @@ def score_by_repetition(files_content, n=10):
 
 def score_by_keyword_occurrence(files_content):
     """根据关键词出现率打分."""
+    # TODO 去掉注释，去掉标点
     scores = {}
     keyword_pattern = re.compile('|'.join(re.escape(kw) for kw in KEYWORDS))
 
@@ -71,7 +76,7 @@ def score_by_keyword_occurrence(files_content):
             score = 0
         else:
             ratio_diff = total_keywords / total_words
-            score = max(20, (1 - ratio_diff) * 100)
+            score = max((1 - ratio_diff) * 100)
 
         scores[filename] = int(score)
     return scores
@@ -79,6 +84,7 @@ def score_by_keyword_occurrence(files_content):
 
 def score_by_code_to_comment_ratio(files_content):
     """根据代码和注释的比例打分."""
+    # TODO 考虑具体的任务：1主代码生成；2主注释代码转换
     scores = {}
     for filename, lines in files_content.items():
         code_lines = 0
@@ -104,6 +110,8 @@ def score_by_code_to_comment_ratio(files_content):
 
 def score_by_code_length_diversity(files_content, min_ideal_length=5, max_ideal_length=80, ideal_avg_length=40):
     """根据代码长度分布情况打分."""
+    # TODO 测试每个代码计算的正确与否
+    # TODO 单元测试
     scores = {}
     for filename, lines in files_content.items():
         lengths = [len(line.strip()) for line in lines if line.strip()]
