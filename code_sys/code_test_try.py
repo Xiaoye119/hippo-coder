@@ -91,7 +91,6 @@ def score_by_keyword_occurrence(files_content):
 
 
 
-
 def score_by_code_to_comment_ratio(files_content):
     """根据代码和注释的比例打分."""
     scores = {}
