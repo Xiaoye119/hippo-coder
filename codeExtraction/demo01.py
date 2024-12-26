@@ -2,7 +2,7 @@
 """
 @Author: Jacob Y
 @Date  : 12/20/2024
-@Desc  : 
+@Desc  : 合并为单个.v文件
 """
 import os
 
@@ -60,8 +60,8 @@ class VerilogFileProcessor:
 # 使用示例
 if __name__ == "__main__":
     # 设置项目路径和输出文件路径
-    project_path = "testData/uhd-master"  # 替换为你的项目路径
-    output_file = "merged_verilog.v"
+    project_path = "testData/uhd-master"
+    output_file = "output/merged_verilog.v"
 
     # 创建并运行 Verilog 文件处理器
     processor = VerilogFileProcessor(project_path, output_file)
