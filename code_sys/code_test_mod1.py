@@ -211,7 +211,7 @@ def main():
     files_content = read_verilog_files(directory)
 
     repetition_scores = score_by_repetition(files_content)
-    keyword_scores = score_by_keyword_occurrence(files_content)
+    # keyword_scores = score_by_keyword_occurrence(files_content)
     code_comment_ratio_scores = score_by_code_to_comment_ratio(files_content)
     code_length_diversity_scores = score_by_code_length_diversity(files_content)
     information_entropy_scores = score_by_information_entropy(files_content)
@@ -221,8 +221,8 @@ def main():
         print(f"文件名: {filename}, 评分: {score:.2f}")
 
     print("\n关键词出现率评分：")
-    for filename, score in keyword_scores.items():
-        print(f"文件名: {filename}, 评分: {score:.2f}")
+    # for filename, score in keyword_scores.items():
+    #     print(f"文件名: {filename}, 评分: {score:.2f}")
 
     print("\n有效代码率评分：")
     for filename, score in code_comment_ratio_scores.items():

@@ -2,7 +2,7 @@ module sync_fifo #(
     parameter DATA_WIDTH = 8,
     parameter FIFO_DEPTH = 16
 )(
-    input wire clk,          // 时钟信号
+
     input wire rst_n,        // 异步复位，低电平有效
     input wire wr_en,        // 写使能
     input wire rd_en,        // 读使能
