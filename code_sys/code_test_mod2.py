@@ -26,14 +26,17 @@ KEYWORDS = [
     'rand', 'randc', 'constraint', 'with', 'inside'
 ]
 
+
 # 检查 iverilog 是否安装
 def check_iverilog_installed():
     try:
         subprocess.run(["iverilog", "--version"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         return True
     except FileNotFoundError:
-        print("Error: iverilog 未安装或未配置在 PATH 中。\n请参考官方文档进行安装：https://iverilog.fandom.com/wiki/Installation")
+        print(
+            "Error: iverilog 未安装或未配置在 PATH 中。\n请参考官方文档进行安装：https://iverilog.fandom.com/wiki/Installation")
         return False
+
 
 # 自动检测文件编码
 def detect_encoding(file_path):
@@ -41,6 +44,7 @@ def detect_encoding(file_path):
         raw = f.read()
         result = chardet.detect(raw)
         return result['encoding']
+
 
 # 查找 Verilog 文件
 def find_verilog_files(directory, recursive=False):
@@ -51,7 +55,8 @@ def find_verilog_files(directory, recursive=False):
                 verilog_files.append(os.path.join(root, file))
         if not recursive:
             break
-    return verilog_files[:500]
+    return verilog_files[:100]
+
 
 # 运行和语法评分
 def check_verilog_syntax(file_path, include_paths=None):
@@ -113,74 +118,71 @@ def check_verilog_syntax(file_path, include_paths=None):
             "errors": str(e)
         }
 
+
 # 新增：行数评分函数
 def score_by_line_count(total_lines):
     if total_lines < 10 or total_lines > 400:
         return None  # 排除不符合范围的文件
-    return round(60 + (total_lines - 10) * 40 / (400 - 10), 2)
+
+    # 线性映射：将 [10, 400] 映射到 [20, 100]
+    min_lines = 10
+    max_lines = 400
+    min_score = 20
+    max_score = 100
+
+    # 计算分数
+    score = min_score + (max_score - min_score) * (total_lines - min_lines) / (max_lines - min_lines)
+
+    return round(score, 2)
 
 
-def calculate_similarity_ratio(str1, str2):
-    """计算两段字符串的相似度比率."""
-    return SequenceMatcher(None, str1, str2).ratio()
+# 计算两个字符串的相似度（Levenshtein距离 / Ratios）
+def calculate_similarity_ratio(line1, line2):
+    # 这里使用 difflib.SequenceMatcher 来计算相似度，0到1之间，1为完全相同
+    return SequenceMatcher(None, line1, line2).ratio()
+
+
+# 简单的归一化处理：将所有数字和常见变量名进行标准化
+def normalize_code(line):
+    # 例如替换掉所有数字和标识符中的数字
+    line = re.sub(r'\d+', 'NUM', line)  # 将所有数字替换成 'NUM'
+    line = re.sub(r'[a-zA-Z]+', 'VAR', line)  # 将所有字母替换成 'VAR'
+    return line
+
 
 def score_by_repetition(files_content, n=10, sampleRate=0.3):
-    # 整个文件的代码行数决定随机行数，设定个比例
-    # 分组，设置块大小，随机抽取块比对
-    # 分组，设按照上面的分组，计算交叉数，交叉数多的给更高的
-    # 迷你哈希计算相似度，minihash，行和行相比
-    """根据重复程度打分."""
+    """
+    根据重复程度打分：重复率高则得分更低，考虑变量名、数字等类似代码。
+    """
     scores = {}
-    for filename, lines in files_content.items():
 
-        """1.0 随机抽n行，n行内 每两行逐个计算重复分，时间复杂度O(n²)"""
-        # sampled_lines = random.sample(lines, min(n, len(lines)))
-        """2.0 按比例采样"""
+    for filename, lines in files_content.items():
         currLinesNum = len(lines)
-        sampleLinesNum = int(currLinesNum * sampleRate)
+        sampleLinesNum = int(currLinesNum * sampleRate)  # 按比例采样
+
+        # 随机选择采样的行
         sampled_lines = random.sample(lines, max(1, sampleLinesNum))
 
+        # 存储归一化后的代码行，用于相似度计算
+        normalized_lines = [normalize_code(line.strip()) for line in sampled_lines]
+
+        # 计算相似度
         similarity_scores = []
-        for i in range(len(sampled_lines)):
-            for j in range(i + 1, len(sampled_lines)):
-                ratio = calculate_similarity_ratio(sampled_lines[i], sampled_lines[j])
-                similarity_scores.append(ratio)
+        for i in range(len(normalized_lines)):
+            for j in range(i + 1, len(normalized_lines)):
+                similarity = calculate_similarity_ratio(normalized_lines[i], normalized_lines[j])
+                similarity_scores.append(similarity)
 
+        # 平均相似度越高，重复度越高
         avg_similarity = sum(similarity_scores) / (len(similarity_scores) or 1)
-        # 将相似度转换为分数，这里我们假设完全不相似得100分，完全相同得0分
-        score = max(0, 100 - avg_similarity * 100)
 
-
-        """3.0 分块"""
-        # truncatingRate = 0.1
-        # chunkSize = int(len(lines) * truncatingRate) or 1
-        # chunkNum = len(lines) // chunkSize
-        # if chunkNum < 2:
-        #     continue
-
-        """4.0 交叉分组"""
-
-        """5.0 MiniHash"""
-        # 存储每行的哈希值
-        hashes = set()
-        duplicates = 0
-
-        # 遍历每行，计算MiniHash并检测是否重复
-        for line in lines:
-            line = line.strip()  # 去掉行尾的换行符和空格
-            if line:  # 排除空行
-                hash_value = hashlib.sha256(line.encode('utf-8')).hexdigest()
-                if hash_value in hashes:
-                    duplicates += 1
-                else:
-                    hashes.add(hash_value)
-        # 计算行间重复度
-        dulicateRatio = duplicates / currLinesNum if currLinesNum > 0 else 0
-        score = (1 - dulicateRatio) * 100
+        # 高重复度得分低，低重复度得分高
+        score = max(0, (1 - avg_similarity) * 100)
 
         scores[filename] = score
 
     return scores
+
 
 def score_by_keyword_occurrence(files_content):
     """根据关键词出现率打分."""
@@ -233,6 +235,7 @@ def score_by_keyword_occurrence(files_content):
 
         scores[filename] = round(score, 2)  # 保留两位小数
     return scores
+
 
 def score_by_code_to_comment_ratio(files_content):
     """根据代码和注释的比例打分."""
@@ -299,27 +302,46 @@ def score_by_code_to_comment_ratio(files_content):
         scores[filename] = round(score, 2)  # 保留两位小数
     return scores
 
+
 # 长度分布率评分
 # TODO 理想长度、最大、最小理想行数根据现在文件的实际情况计算
 # TODO lengths长度的计算逻辑，不能按照字符，按照空格切分
-def score_by_code_length_diversity(files_content, min_ideal_length=5, max_ideal_length=80, ideal_avg_length=40):
+def score_by_code_length_diversity(files_content):
     scores = {}
     for filename, lines in files_content.items():
-        lengths = [len(line.strip()) for line in lines if line.strip()]
+        # 将每行按空格拆分成单词并统计单词数
+        lengths = [len(line.strip().split()) for line in lines if line.strip()]
+
         if not lengths:
             scores[filename] = 0.00
             continue
 
-        avg_length = sum(lengths) / len(lengths)
-        length_stddev = stdev(lengths) if len(lengths) > 1 else 0
+        # 动态计算 min_ideal_length, max_ideal_length 和 ideal_avg_length
+        min_ideal_length = min(lengths)
+        max_ideal_length = max(lengths)
+        ideal_avg_length = sum(lengths) / len(lengths)
+
+        # 计算每行单词数的标准差
+        length_stddev = stdev(lengths) if len(lengths) >= 2 else 0
+
+        # 计算在理想范围内的单词数量比例
         within_range_ratio = sum(min_ideal_length <= length <= max_ideal_length for length in lengths) / len(lengths)
 
-        avg_length_diff = abs(avg_length - ideal_avg_length) / ideal_avg_length if ideal_avg_length != 0 else 0
+        # 计算与理想平均值的偏差
+        avg_length_diff = abs(ideal_avg_length - ideal_avg_length) / ideal_avg_length if ideal_avg_length != 0 else 0
+
+        # 多样性得分（接近理想平均值时得分越高）
         diversity_score = (1 - avg_length_diff) * 50
         stddev_score = min(50, length_stddev * 10)
+
+        # 最终得分
         score = (diversity_score + stddev_score) * within_range_ratio
-        scores[filename] = round(min(100, max(0, score)), 2)  # 保留两位小数
+
+        # 确保得分在 0 到 100 之间，并保留两位小数
+        scores[filename] = round(min(100, max(0, score)), 2)
+
     return scores
+
 
 # 单行信息熵评分
 def score_by_information_entropy(files_content):
@@ -347,9 +369,15 @@ def score_by_information_entropy(files_content):
         scores[filename] = round(min(100, score), 2)  # 保留两位小数
     return scores
 
+
 # 评分函数定义
 def calculate_similarity_ratio(str1, str2):
     return SequenceMatcher(None, str1, str2).ratio()
+
+
+# 转为浮点数
+def safe_score(value):
+    return float(value) if value is not None else 0.0
 
 
 def main():
@@ -378,6 +406,9 @@ def main():
     length_diversity_scores = score_by_code_length_diversity(files_content)
     entropy_scores = score_by_information_entropy(files_content)
 
+    # 新增：行数评分
+    line_count_scores = {result['file']: score_by_line_count(result['total_lines']) for result in syntax_results}
+
     results = []
     total_score_sum = 0  # 总分数
     total_files = len(verilog_files)  # 文件数量
@@ -385,19 +416,34 @@ def main():
     for result in syntax_results:
         file = result['file']
 
-        # 语法错误比例评分：100 - 错误比例（语法错误比例越低，得分越高）
-        syntax_error_ratio_score = max(0, 100 - result['error_ratio'] * 100)
+        # 语法错误比例评分：当语法错误比例达到20%得分0分，语法错误比例越低，得分越高
+        if result['error_ratio'] >= 0.2:
+            syntax_error_ratio_score = 0
+        else:
+            # 线性减少分数，从100分开始，随着错误比例增加而减少
+            syntax_error_ratio_score = max(0, 100 - (result['error_ratio'] / 0.2) * 100)
 
-        # 可否运行得分：如果文件能运行（没有语法错误），得100分，否则得0分
-        run_score = 100 if result['success'] else 0
+        # 可否运行得分：如果文件能运行（没有语法错误），得60分，否则得50分
+        run_score = 60 if result['success'] else 50
 
-        # 综合评分 = 各项评分 + 语法错误比例评分 + 可否运行得分
-        overall_score = round((repetition_scores.get(file, 0) +
-                               keyword_scores.get(file, 0) +
-                               comment_ratio_scores.get(file, 0) +
-                               length_diversity_scores.get(file, 0) +
-                               entropy_scores.get(file, 0) +
-                               syntax_error_ratio_score + run_score) / 7, 2)
+        # 获取行数评分
+        line_score = safe_score(line_count_scores.get(file))
+
+        # 确保每个评分字典的返回值不为 None
+        repetition_score = safe_score(repetition_scores.get(file))
+        keyword_score = safe_score(keyword_scores.get(file))
+        comment_ratio_score = safe_score(comment_ratio_scores.get(file))
+        length_diversity_score = safe_score(length_diversity_scores.get(file))
+        entropy_score = safe_score(entropy_scores.get(file))
+
+        # 综合评分 = 各项评分 + 语法错误比例评分 + 可否运行得分 + 行数评分
+        overall_score = round((repetition_score +
+                               keyword_score +
+                               comment_ratio_score +
+                               length_diversity_score +
+                               entropy_score +
+                               syntax_error_ratio_score + run_score +
+                               line_score) / 8, 2)
 
         # 统计总分
         total_score_sum += overall_score
@@ -411,11 +457,12 @@ def main():
             '总行数': result['total_lines'],
             '语法错误行数': result['error_lines'],
             '语法错误比例': f"{syntax_error_ratio}%",
-            '重复率评分': f"{repetition_scores.get(file, 0):.2f}",
-            '关键词评分': f"{keyword_scores.get(file, 0):.2f}",
-            '注释比例评分': f"{comment_ratio_scores.get(file, 0):.2f}",
-            '长度多样性评分': f"{length_diversity_scores.get(file, 0):.2f}",
-            '信息熵评分': f"{entropy_scores.get(file, 0):.2f}",
+            '重复率评分': f"{repetition_score:.2f}",
+            '关键词评分': f"{keyword_score:.2f}",
+            '注释比例评分': f"{comment_ratio_score:.2f}",
+            '长度多样性评分': f"{length_diversity_score:.2f}",
+            '信息熵评分': f"{entropy_score:.2f}",
+            '行数评分': f"{line_score:.2f}",
             '语法错误比例评分': f"{syntax_error_ratio_score:.2f}",
             '可否运行得分': f"{run_score:.2f}",
             '综合评分': f"{overall_score:.2f}"
