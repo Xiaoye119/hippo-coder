@@ -83,9 +83,10 @@ def process_verilog_files(input_directory, output_directory, sample=None):
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
     files = os.listdir(input_directory)[:sample] if sample else os.listdir(input_directory)
-    for filename in tqdm(files, file=sys.stdout):
-        time.sleep(1e-4)
-        print(f"Saving >> {filename}", flush=True)
+    for filename in tqdm(files):
+        # time.sleep(1e-4)
+        # print(f"Saving >> {filename}", flush=True)
+        # tqdm.write(f"Saving >> {filename}")
         input_file = os.path.join(input_directory, filename)
         if os.path.isfile(input_file) and filename.endswith(".v"):
             process_verilog_file(input_file, output_directory)
@@ -94,6 +95,6 @@ def process_verilog_files(input_directory, output_directory, sample=None):
 
 # 调用主函数
 input_directory = r"./code-verilog"  # 输入Verilog文件目录
-output_directory = "./output"  # 输出子块文件目录
+output_directory = "./output1"  # 输出子块文件目录
 
 process_verilog_files(input_directory, output_directory, sample=1000)
