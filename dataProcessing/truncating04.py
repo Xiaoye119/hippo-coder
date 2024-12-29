@@ -6,6 +6,10 @@
 """
 import os
 import random
+import sys
+import time
+
+from tqdm import tqdm
 
 
 # 计算块大小
@@ -57,14 +61,14 @@ def process_verilog_file(input_file, output_dir):
         # 计算当前块的大小
         block_size = calculate_block_size(remaining_lines)
 
-        # 如果当前剩余行数少于10行，跳过切分直接合并
+        # 如果当前块行数少于10行，跳过切分直接合并
         if block_size <= 10:
             break
 
         # 获取当前块的行
         block_lines = lines[current_line:current_line + block_size]
 
-        print(len(block_lines))
+        # print(len(block_lines))
         # 保存当前块
         save_block(block_lines, output_dir, os.path.basename(input_file), f"_{file_suffix}")
         file_suffix += 1
@@ -75,17 +79,22 @@ def process_verilog_file(input_file, output_dir):
 
 # 主程序
 def process_verilog_files(input_directory, output_directory, sample=None):
+    count = 0
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
     files = os.listdir(input_directory)[:sample] if sample else os.listdir(input_directory)
-    for filename in files:
+    for filename in tqdm(files):
+        # time.sleep(1e-4)
+        # print(f"Saving >> {filename}", flush=True)
+        # tqdm.write(f"Saving >> {filename}")
         input_file = os.path.join(input_directory, filename)
         if os.path.isfile(input_file) and filename.endswith(".v"):
             process_verilog_file(input_file, output_directory)
-
+        count += 1
+    print(f"\nProcessed {count} files")
 
 # 调用主函数
-input_directory = "../data/code-verilog"  # 输入Verilog文件目录
-output_directory = "./output"  # 输出子块文件目录
+input_directory = r"../data/code-verilog"  # 输入Verilog文件目录
+output_directory = "./output1"  # 输出子块文件目录
 
-process_verilog_files(input_directory, output_directory, sample=1000)
+process_verilog_files(input_directory, output_directory, sample=3)
