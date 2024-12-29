@@ -94,7 +94,7 @@ def process_verilog_files(input_directory, output_directory, sample=None):
     print(f"\nProcessed {count} files")
 
 # 调用主函数
-input_directory = r"./code-verilog"  # 输入Verilog文件目录
+input_directory = r"../data/code-verilog"  # 输入Verilog文件目录
 output_directory = "./output1"  # 输出子块文件目录
 
-process_verilog_files(input_directory, output_directory, sample=1000)
+process_verilog_files(input_directory, output_directory, sample=3)
