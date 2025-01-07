@@ -8,12 +8,12 @@ import shutil  # 添加此行以导入 shutil 模块
 
 
 # 删除并重新创建输出文件夹
-def reset_output_folders():
-    if os.path.exists('output'):
-        shutil.rmtree('output')  # 删除整个 output 文件夹
-    os.makedirs('output')  # 重新创建 output 文件夹
-    os.makedirs('output/task1')  # 创建 task1 子文件夹
-    os.makedirs('output/task2')  # 创建 task2 子文件夹
+def reset_output3_folders():
+    if os.path.exists('output3'):
+        shutil.rmtree('output3')  # 删除整个 output3 文件夹
+    os.makedirs('output3')  # 重新创建 output3 文件夹
+    os.makedirs('output3/task1')  # 创建 task1 子文件夹
+    os.makedirs('output3/task2')  # 创建 task2 子文件夹
 
 
 # 按概率切文件
@@ -70,7 +70,7 @@ def split_file_by_random_ratio(file_lines, file_name, file_index, line_ratios=No
 # 掩码策略
 def mask_code_blocks(data, file_name, file_index):
     modes = ['mode1', 'mode2', 'mode3', 'mode4', 'mode5']
-    output_data = []
+    output3_data = []
 
     for entry in data:
         code = entry["code"]
@@ -82,7 +82,7 @@ def mask_code_blocks(data, file_name, file_index):
             if word and word[0].isalpha():  # 确保单词的第一个字符是字母
                 prefix = "<p>" + word[0]  # 第一个字母作为 prefix
                 middle = "<m>" + word[1:] if len(word) > 1 else "<m>"  # 剩下的字母作为 middle
-                output_data.append({
+                output3_data.append({
                     "language": "verilog",
                     "prefix": prefix,
                     "middle": middle,
@@ -171,7 +171,7 @@ def mask_code_blocks(data, file_name, file_index):
             if not middle or not suffix:
                 continue  # 跳过不符合条件的块
 
-        output_data.append({
+        output3_data.append({
             "language": "verilog",
             "prefix": prefix,
             "middle": middle,
@@ -180,15 +180,15 @@ def mask_code_blocks(data, file_name, file_index):
             "file_name": file_name
         })
 
-    return output_data
+    return output3_data
 
 
 # 主函数
 def main():
-    input_folder = 'code-verilog'  # 输入文件夹
+    input_folder = '评测集'  # 输入文件夹
 
     # 删除并重置输出文件夹
-    reset_output_folders()
+    reset_output3_folders()
 
     result1_all_data = []
     result2_all_data = []
@@ -255,7 +255,7 @@ def main():
     print("------------------------------------------------ 开始写入数据 -----------------------------------------------")
     # 写入 task1 的结果，每个块一行，并且每个块之间加个空行，同时格式化JSON对象
     with tqdm(total=len(result1_all_data), desc="写入 task1", unit="块") as pbar:
-        with open('output/task1/result1.jsonl', 'w', encoding='utf-8') as out_file:
+        with open('output3/task1/result1.jsonl', 'w', encoding='utf-8') as out_file:
             for entry in result1_all_data:
                 # 使用 indent 和 separators 参数使 JSON 输出更易读
                 formatted_entry = json.dumps(entry, ensure_ascii=False, indent=4, separators=(',', ': '))
@@ -264,7 +264,7 @@ def main():
 
     # 写入 task2 的结果，每个块一行，并且每个块之间加个空行，同时格式化JSON对象
     with tqdm(total=len(result2_all_data), desc="写入 task2", unit="块") as pbar:
-        with open('output/task2/result2.jsonl', 'w', encoding='utf-8') as out_file:
+        with open('output3/task2/result2.jsonl', 'w', encoding='utf-8') as out_file:
             for entry in result2_all_data:
                 # 使用 indent 和 separators 参数使 JSON 输出更易读
                 formatted_entry = json.dumps(entry, ensure_ascii=False, indent=4, separators=(',', ': '))
