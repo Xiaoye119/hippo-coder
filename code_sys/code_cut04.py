@@ -9,12 +9,12 @@ import shutil  # 添加此行以导入 shutil 模块
 
 # 删除并重新创建输出文件夹
 def reset_output_folders():
-    if os.path.exists('output'):
-        shutil.rmtree('output')  # 删除整个 output 文件夹
-    os.makedirs('output')  # 重新创建 output 文件夹
-    os.makedirs('output/task1')  # 创建 task1 子文件夹
-    os.makedirs('output/task2')  # 创建 task2 子文件夹
-    os.makedirs('output/task3')  # 创建 task3 子文件夹
+    if os.path.exists(r'F:\hippo项目-bak\data\code-verilog\sft_cut'):
+        shutil.rmtree(r'F:\hippo项目-bak\data\code-verilog\sft_cut')  # 删除整个文件夹
+    os.makedirs(r'F:\hippo项目-bak\data\code-verilog\sft_cut')  # 重新创建文件夹
+    os.makedirs(r'F:\hippo项目-bak\data\code-verilog\sft_cut\out_put\task1')  # 创建 task1 子文件夹
+    os.makedirs(r'F:\hippo项目-bak\data\code-verilog\sft_cut\out_put\task2')  # 创建 task2 子文件夹
+    os.makedirs(r'F:\hippo项目-bak\data\code-verilog\sft_cut\out_put\task3')  # 创建 task3 子文件夹
 
 
 # 按概率切文件
@@ -183,10 +183,21 @@ def mask_keywords(file_lines):
             continue  # 如果没有单词，跳过
 
         # 随机选择一个单词，并确保第一个字符是英文字母
+        max_attempts = 100  # 设定最大尝试次数，可以根据实际需求调整
+        attempt_count = 0  # 初始化尝试次数计数器
+        keyword_flag = True
         while True:
             keyword = random.choice(words)
             if len(keyword) > 0 and keyword[0].isalpha():  # 检查第一个字符是否为英文字母
                 break
+            attempt_count += 1
+            if attempt_count >= max_attempts:
+                keyword_flag = False
+                print("已达到最大尝试次数，仍未找到符合条件的keyword，退出循环")
+                break
+
+        if not keyword_flag:
+            continue
 
         if len(keyword) > 1:
             prefix = "<p>" + keyword[0]  # 第一个字母作为 prefix
@@ -208,7 +219,7 @@ def mask_keywords(file_lines):
 
 # 主函数
 def main():
-    input_folder = 'code-verilog'  # 输入文件夹
+    input_folder = r'F:\hippo项目-bak\data\code-verilog\code-verilog'  # 输入文件夹
 
     # 删除并重置输出文件夹
     reset_output_folders()
@@ -226,7 +237,7 @@ def main():
         log_file.write("无法处理的文件列表：\n")
 
     # 设置最大处理文件数量
-    max_files_to_process = 10000  # 控制处理 n 个文件
+    max_files_to_process = 130000  # 控制处理 n 个文件
     processed_files_count = 0  # 已处理的文件数量计数器
 
     # 使用一个总的 tqdm 来跟踪所有文件的处理进度
@@ -235,7 +246,6 @@ def main():
         for file in files_to_process:
             if processed_files_count >= max_files_to_process:
                 break  # 达到最大处理数量后停止
-
             try:
                 all_lines = []
                 try:
@@ -264,7 +274,7 @@ def main():
                 result2_data = mask_code_blocks(result1_data, file_name, file_index)
                 result2_all_data.extend(result2_data)
 
-                # 使用关键词掩码策略
+                # TODO 61460 在使用关键词掩码策略(这一行卡死的)
                 result3_data = mask_keywords(all_lines)
                 result3_all_data.extend(result3_data)
 
@@ -273,17 +283,18 @@ def main():
                 processed_files_count += 1  # 更新已处理的文件数量
             except Exception as e:
                 # 记录无法处理的文件的文件名
-                with open(error_log_file, 'a', encoding='utf-8') as log_file:
-                    log_file.write(f"{file}\n")
-                print(f"文件 {file} 处理失败: {e}")
+                # with open(error_log_file, 'a', encoding='utf-8') as log_file:
+                #     log_file.write(f"{file}\n")
+                # print(f"文件 {file} 处理失败: {e}")
                 pbar.update(1)  # 更新进度条
                 file_index += 1  # 更新文件计数器
                 processed_files_count += 1  # 更新已处理的文件数量
                 continue
 
+    print("------------------------------------------------ 开始写入数据 -----------------------------------------------")
     # 写入 task1 的结果，每个块一行，并且每个块之间加个空行，同时格式化JSON对象
     with tqdm(total=len(result1_all_data), desc="写入 task1", unit="块") as pbar:
-        with open('output/task1/result1.jsonl', 'w', encoding='utf-8') as out_file:
+        with open(r'F:\hippo项目-bak\data\code-verilog\sft_cut\out_put\task1\result1.jsonl', 'w', encoding='utf-8') as out_file:
             for entry in result1_all_data:
                 # 使用 indent 和 separators 参数使 JSON 输出更易读
                 formatted_entry = json.dumps(entry, ensure_ascii=False, indent=4, separators=(',', ': '))
@@ -292,7 +303,7 @@ def main():
 
     # 写入 task2 的结果，每个块一行，并且每个块之间加个空行，同时格式化JSON对象
     with tqdm(total=len(result2_all_data), desc="写入 task2", unit="块") as pbar:
-        with open('output/task2/result2.jsonl', 'w', encoding='utf-8') as out_file:
+        with open(r'F:\hippo项目-bak\data\code-verilog\sft_cut\out_put\task2\result2.jsonl', 'w', encoding='utf-8') as out_file:
             for entry in result2_all_data:
                 # 使用 indent 和 separators 参数使 JSON 输出更易读
                 formatted_entry = json.dumps(entry, ensure_ascii=False, indent=4, separators=(',', ': '))
@@ -301,7 +312,7 @@ def main():
 
     # 写入 task3 的结果，每个块一行，并且每个块之间加个空行，同时格式化JSON对象
     with tqdm(total=len(result3_all_data), desc="写入 task3", unit="块") as pbar:
-        with open('output/task3/result3.jsonl', 'w', encoding='utf-8') as out_file:
+        with open(r'F:\hippo项目-bak\data\code-verilog\sft_cut\out_put\task3\result3.jsonl', 'w', encoding='utf-8') as out_file:
             for entry in result3_all_data:
                 # 使用 indent 和 separators 参数使 JSON 输出更易读
                 formatted_entry = json.dumps(entry, ensure_ascii=False, indent=4, separators=(',', ': '))
