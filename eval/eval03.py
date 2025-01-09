@@ -5,13 +5,12 @@
 @Desc  : 
 """
 import re
-import time
 import pandas as pd
 from tqdm import tqdm
 from rouge_score import rouge_scorer
 import hashlib
 from datetime import datetime
-
+from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
 
 def preprocess_text(text):
@@ -19,15 +18,36 @@ def preprocess_text(text):
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
-# 计算 BLEU 分数
-def calculate_bleu(pred_text, label_text):
-    pred_tokens = preprocess_text(pred_text).split()
-    label_tokens = preprocess_text(label_text).split()
+# 计算 BLEU 分数【开源】
+# def calculate_bleu(pred_text, label_text):
+#     pred_tokens = preprocess_text(pred_text).split()
+#     label_tokens = preprocess_text(label_text).split()
+#
+#     # 计算 BLEU 分数，简易版
+#     common_tokens = set(pred_tokens) & set(label_tokens)
+#     bleu_score = len(common_tokens) / len(label_tokens) if label_tokens else 0
+#     return bleu_score
 
-    # 计算 BLEU 分数，简易版
-    common_tokens = set(pred_tokens) & set(label_tokens)
-    bleu_score = len(common_tokens) / len(label_tokens) if label_tokens else 0
-    return bleu_score
+def calculate_bleu_score(candidate, reference):
+    """
+    使用 NLTK 的 sentence_bleu 函数计算 BLEU 分数，结合平滑函数和降低 n-gram 阶数。
+    :param candidate: 候选文本（生成的文本）。
+    :param reference: 参考文本（标准答案）。
+    :return: BLEU 分数。
+    """
+    # 将文本分割为单词列表
+    candidate_tokens = candidate.split()
+    reference_tokens = reference.split()
+
+    # 设置权重，仅计算 1-gram 和 2-gram
+    weights = (0.5, 0.5, 0, 0)  # 1-gram 和 2-gram 的权重分别为 0.5，3-gram 和 4-gram 的权重为 0
+
+    # 使用平滑函数
+    smoothing_function = SmoothingFunction().method1  # 选择平滑方法
+
+    # 计算 BLEU 分数
+    score = sentence_bleu([reference_tokens], candidate_tokens, weights=weights, smoothing_function=smoothing_function) * 100
+    return score
 
 def calculate_window_hashes(code, window_size=10, hash_algorithm="sha256"):
     """
@@ -106,7 +126,10 @@ def calculate_total_scores(predictions, labels):
 
         # 计算当前数据的 BLEU 分数
         # bleu_score = sentence_bleu([pred.split()], label.split()) * 100
-        bleu_score = calculate_bleu(pred, label) * 100
+        # bleu_score = calculate_bleu(pred, label) * 100
+
+        bleu_score = calculate_bleu_score(pred, label)
+
         # 计算当前数据的 ROUGE 分数
         rouge_score = rouge.score(pred, label)['rougeL'].fmeasure * 100
 
